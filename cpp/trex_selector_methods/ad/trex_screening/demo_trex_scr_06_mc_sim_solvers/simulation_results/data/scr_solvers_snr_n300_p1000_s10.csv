@@ -1,0 +1,73 @@
+method,metric,SNR,value
+Screen-TRex Ordinary: TLARS,FDR,0.010000,0.452333
+Screen-TRex Ordinary: TLARS,TPR,0.010000,0.004500
+Screen-TRex Ordinary: TLARS,Est. FDR,0.010000,0.375583
+Screen-TRex Ordinary: TLARS,FDR,0.100000,0.364167
+Screen-TRex Ordinary: TLARS,TPR,0.100000,0.032500
+Screen-TRex Ordinary: TLARS,Est. FDR,0.100000,0.499333
+Screen-TRex Ordinary: TLARS,FDR,0.200000,0.272333
+Screen-TRex Ordinary: TLARS,TPR,0.200000,0.118500
+Screen-TRex Ordinary: TLARS,Est. FDR,0.200000,0.467667
+Screen-TRex Ordinary: TLARS,FDR,0.500000,0.108246
+Screen-TRex Ordinary: TLARS,TPR,0.500000,0.450500
+Screen-TRex Ordinary: TLARS,Est. FDR,0.500000,0.226748
+Screen-TRex Ordinary: TLARS,FDR,0.600000,0.093082
+Screen-TRex Ordinary: TLARS,TPR,0.600000,0.543500
+Screen-TRex Ordinary: TLARS,Est. FDR,0.600000,0.183290
+Screen-TRex Ordinary: TLARS,FDR,1.000000,0.070566
+Screen-TRex Ordinary: TLARS,TPR,1.000000,0.833000
+Screen-TRex Ordinary: TLARS,Est. FDR,1.000000,0.113452
+Screen-TRex Ordinary: TLARS,FDR,2.000000,0.046408
+Screen-TRex Ordinary: TLARS,TPR,2.000000,0.993500
+Screen-TRex Ordinary: TLARS,Est. FDR,2.000000,0.096065
+Screen-TRex Ordinary: TLARS,FDR,5.000000,0.071073
+Screen-TRex Ordinary: TLARS,TPR,5.000000,1.000000
+Screen-TRex Ordinary: TLARS,Est. FDR,5.000000,0.092893
+Screen-TRex Ordinary: TAFS-0.3,FDR,0.010000,0.415250
+Screen-TRex Ordinary: TAFS-0.3,TPR,0.010000,0.005000
+Screen-TRex Ordinary: TAFS-0.3,Est. FDR,0.010000,0.363548
+Screen-TRex Ordinary: TAFS-0.3,FDR,0.100000,0.355833
+Screen-TRex Ordinary: TAFS-0.3,TPR,0.100000,0.034500
+Screen-TRex Ordinary: TAFS-0.3,Est. FDR,0.100000,0.456250
+Screen-TRex Ordinary: TAFS-0.3,FDR,0.200000,0.280500
+Screen-TRex Ordinary: TAFS-0.3,TPR,0.200000,0.123500
+Screen-TRex Ordinary: TAFS-0.3,Est. FDR,0.200000,0.480000
+Screen-TRex Ordinary: TAFS-0.3,FDR,0.500000,0.105393
+Screen-TRex Ordinary: TAFS-0.3,TPR,0.500000,0.497000
+Screen-TRex Ordinary: TAFS-0.3,Est. FDR,0.500000,0.210982
+Screen-TRex Ordinary: TAFS-0.3,FDR,0.600000,0.085755
+Screen-TRex Ordinary: TAFS-0.3,TPR,0.600000,0.616500
+Screen-TRex Ordinary: TAFS-0.3,Est. FDR,0.600000,0.163782
+Screen-TRex Ordinary: TAFS-0.3,FDR,1.000000,0.063132
+Screen-TRex Ordinary: TAFS-0.3,TPR,1.000000,0.933000
+Screen-TRex Ordinary: TAFS-0.3,Est. FDR,1.000000,0.101534
+Screen-TRex Ordinary: TAFS-0.3,FDR,2.000000,0.048993
+Screen-TRex Ordinary: TAFS-0.3,TPR,2.000000,1.000000
+Screen-TRex Ordinary: TAFS-0.3,Est. FDR,2.000000,0.095101
+Screen-TRex Ordinary: TAFS-0.3,FDR,5.000000,0.061300
+Screen-TRex Ordinary: TAFS-0.3,TPR,5.000000,1.000000
+Screen-TRex Ordinary: TAFS-0.3,Est. FDR,5.000000,0.093870
+Screen-TRex Ordinary: TOMP,FDR,0.010000,0.456500
+Screen-TRex Ordinary: TOMP,TPR,0.010000,0.005500
+Screen-TRex Ordinary: TOMP,Est. FDR,0.010000,0.378000
+Screen-TRex Ordinary: TOMP,FDR,0.100000,0.334583
+Screen-TRex Ordinary: TOMP,TPR,0.100000,0.035000
+Screen-TRex Ordinary: TOMP,Est. FDR,0.100000,0.460000
+Screen-TRex Ordinary: TOMP,FDR,0.200000,0.280250
+Screen-TRex Ordinary: TOMP,TPR,0.200000,0.112500
+Screen-TRex Ordinary: TOMP,Est. FDR,0.200000,0.473500
+Screen-TRex Ordinary: TOMP,FDR,0.500000,0.115303
+Screen-TRex Ordinary: TOMP,TPR,0.500000,0.504500
+Screen-TRex Ordinary: TOMP,Est. FDR,0.500000,0.203494
+Screen-TRex Ordinary: TOMP,FDR,0.600000,0.090252
+Screen-TRex Ordinary: TOMP,TPR,0.600000,0.637000
+Screen-TRex Ordinary: TOMP,Est. FDR,0.600000,0.160214
+Screen-TRex Ordinary: TOMP,FDR,1.000000,0.057307
+Screen-TRex Ordinary: TOMP,TPR,1.000000,0.945500
+Screen-TRex Ordinary: TOMP,Est. FDR,1.000000,0.100575
+Screen-TRex Ordinary: TOMP,FDR,2.000000,0.058159
+Screen-TRex Ordinary: TOMP,TPR,2.000000,1.000000
+Screen-TRex Ordinary: TOMP,Est. FDR,2.000000,0.094184
+Screen-TRex Ordinary: TOMP,FDR,5.000000,0.061673
+Screen-TRex Ordinary: TOMP,TPR,5.000000,1.000000
+Screen-TRex Ordinary: TOMP,Est. FDR,5.000000,0.093833

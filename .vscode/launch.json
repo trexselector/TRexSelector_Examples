@@ -1,0 +1,124 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    // -----------------------------------------------------------------------
+    // C++ Executables (CMake build via presets)
+    // -----------------------------------------------------------------------
+    // Binaries mirror the source-tree layout under <build>/bin/, so the picker
+    // value below is the full <group>/<demo_dir>/<target> path, not a bare name
+    // (see add_demo_target in cpp/CMakeLists.txt).
+    //
+    // Debug: pick a target from the list, build it, then launch under lldb/gdb.
+    {
+        "name": "C++: Debug",
+        "type": "cppdbg",
+        "request": "launch",
+        "program": "${workspaceFolder}/cpp/build/debug/bin/${input:targetName}",
+        "args": [],
+        "cwd": "${workspaceFolder}",
+        "preLaunchTask": "CMake Full Build (Debug)",
+        "osx": {
+            "MIMode": "lldb"
+        },
+        "linux": {
+            "MIMode": "gdb"
+        },
+        "windows": {
+            "MIMode": "gdb"
+        }
+    },
+    // Release: same target picker, release build.
+    {
+        "name": "C++: Release",
+        "type": "cppdbg",
+        "request": "launch",
+        "program": "${workspaceFolder}/cpp/build/release/bin/${input:targetName}",
+        "args": [],
+        "cwd": "${workspaceFolder}",
+        "preLaunchTask": "CMake Full Build (Release)",
+        "osx": {
+            "MIMode": "lldb"
+        },
+        "linux": {
+            "MIMode": "gdb"
+        },
+        "windows": {
+            "MIMode": "gdb"
+        }
+    }
+  ],
+
+  // -----------------------------------------------------------------------
+  // Shared inputs
+  // -----------------------------------------------------------------------
+  "inputs": [
+    {
+        "id": "targetName",
+        "type": "pickString",
+        "description": "Select the demo/simulation target to run",
+        "options": [
+            // memory mapping
+            {"label": "demo_memory_mapping", "value": "memory_mapping/demo_memory_mapping/demo_memory_mapping"},
+            // ml_methods
+            {"label": "demo_mlm_hac_01", "value": "ml_methods/hac_clustering/demo_mlm_hac_01/demo_mlm_hac_01"},
+            {"label": "demo_mlm_hac_02_mmap", "value": "ml_methods/hac_clustering/demo_mlm_hac_02_mmap/demo_mlm_hac_02_mmap"},
+            {"label": "demo_mlm_ms_01_ridge_cv_svd", "value": "ml_methods/model_selection/demo_mlm_ms_01_ridge_cv_svd/demo_mlm_ms_01_ridge_cv_svd"},
+            {"label": "demo_mlm_ms_02_enet_cv_ccd", "value": "ml_methods/model_selection/demo_mlm_ms_02_enet_cv_ccd/demo_mlm_ms_02_enet_cv_ccd"},
+            {"label": "demo_mlm_pca_01", "value": "ml_methods/pca/demo_mlm_pca_01/demo_mlm_pca_01"},
+            {"label": "demo_mlm_ridge_01", "value": "ml_methods/ridge_regression/demo_mlm_ridge_01/demo_mlm_ridge_01"},
+            {"label": "demo_mlm_scaler_01", "value": "ml_methods/scaler_methods/demo_mlm_scaler_01/demo_mlm_scaler_01"},
+            {"label": "demo_mlm_svd_01", "value": "ml_methods/svd/demo_mlm_svd_01/demo_mlm_svd_01"},
+            // tsolvers
+            {"label": "demo_ts_01_tlars", "value": "tsolvers/ad/demo_ts_01_tlars/demo_ts_01_tlars"},
+            {"label": "demo_ts_02_tlasso", "value": "tsolvers/ad/demo_ts_02_tlasso/demo_ts_02_tlasso"},
+            {"label": "demo_ts_03_tstepwise", "value": "tsolvers/ad/demo_ts_03_tstepwise/demo_ts_03_tstepwise"},
+            {"label": "demo_ts_04_tenet", "value": "tsolvers/ad/demo_ts_04_tenet/demo_ts_04_tenet"},
+            {"label": "demo_ts_05_tstagewise", "value": "tsolvers/ad/demo_ts_05_tstagewise/demo_ts_05_tstagewise"},
+            {"label": "demo_ts_06_tomp", "value": "tsolvers/ad/demo_ts_06_tomp/demo_ts_06_tomp"},
+            {"label": "demo_ts_07_tgp", "value": "tsolvers/ad/demo_ts_07_tgp/demo_ts_07_tgp"},
+            {"label": "demo_ts_08_tacgp", "value": "tsolvers/ad/demo_ts_08_tacgp/demo_ts_08_tacgp"},
+            {"label": "demo_ts_09_tmp", "value": "tsolvers/ad/demo_ts_09_tmp/demo_ts_09_tmp"},
+            {"label": "demo_ts_10_tncgmp", "value": "tsolvers/ad/demo_ts_10_tncgmp/demo_ts_10_tncgmp"},
+            {"label": "demo_ts_11_tools", "value": "tsolvers/ad/demo_ts_11_tools/demo_ts_11_tools"},
+            {"label": "demo_ts_12_tafs", "value": "tsolvers/ad/demo_ts_12_tafs/demo_ts_12_tafs"},
+            // trex_selector_methods - classic T-Rex
+            {"label": "demo_trex_01_single_run", "value": "trex_selector_methods/ad/trex_core/demo_trex_01_single_run/demo_trex_01_single_run"},
+            {"label": "demo_trex_02_mc_sim_fixed_support", "value": "trex_selector_methods/ad/trex_core/demo_trex_02_mc_sim_fixed_support/demo_trex_02_mc_sim_fixed_support"},
+            {"label": "demo_trex_03_mc_sim_variable_support", "value": "trex_selector_methods/ad/trex_core/demo_trex_03_mc_sim_variable_support/demo_trex_03_mc_sim_variable_support"},
+            {"label": "demo_trex_04_mc_sim_lloop_strategies", "value": "trex_selector_methods/ad/trex_core/demo_trex_04_mc_sim_lloop_strategies/demo_trex_04_mc_sim_lloop_strategies"},
+            {"label": "demo_trex_05_mc_sim_dummy_distributions", "value": "trex_selector_methods/ad/trex_core/demo_trex_05_mc_sim_dummy_distributions/demo_trex_05_mc_sim_dummy_distributions"},
+            {"label": "demo_trex_06_mmap", "value": "trex_selector_methods/ad/trex_core/demo_trex_06_mmap/demo_trex_06_mmap"},
+            {"label": "demo_trex_07_mc_sim_mmap", "value": "trex_selector_methods/ad/trex_core/demo_trex_07_mc_sim_mmap/demo_trex_07_mc_sim_mmap"},
+            {"label": "demo_trex_08_mc_sim_scalability", "value": "trex_selector_methods/ad/trex_core/demo_trex_08_mc_sim_scalability/demo_trex_08_mc_sim_scalability"},
+            // trex_selector_methods - dependency aware
+            {"label": "demo_trex_da_01_mc_sim_ar1", "value": "trex_selector_methods/ad/trex_da/demo_trex_da_01_mc_sim_ar1/demo_trex_da_01_mc_sim_ar1"},
+            {"label": "demo_trex_da_02_mc_sim_ar1_blocks_plus_white", "value": "trex_selector_methods/ad/trex_da/demo_trex_da_02_mc_sim_ar1_blocks_plus_white/demo_trex_da_02_mc_sim_ar1_blocks_plus_white"},
+            {"label": "demo_trex_da_03_mc_sim_ar1_blocks", "value": "trex_selector_methods/ad/trex_da/demo_trex_da_03_mc_sim_ar1_blocks/demo_trex_da_03_mc_sim_ar1_blocks"},
+            {"label": "demo_trex_da_04_mc_sim_ht_blocks", "value": "trex_selector_methods/ad/trex_da/demo_trex_da_04_mc_sim_ht_blocks/demo_trex_da_04_mc_sim_ht_blocks"},
+            {"label": "demo_trex_da_05_mc_sim_ht_blocks_plus_white", "value": "trex_selector_methods/ad/trex_da/demo_trex_da_05_mc_sim_ht_blocks_plus_white/demo_trex_da_05_mc_sim_ht_blocks_plus_white"},
+            {"label": "demo_trex_da_06_mc_sim_groups", "value": "trex_selector_methods/ad/trex_da/demo_trex_da_06_mc_sim_groups/demo_trex_da_06_mc_sim_groups"},
+            {"label": "demo_trex_da_07_mc_sim_nn", "value": "trex_selector_methods/ad/trex_da/demo_trex_da_07_mc_sim_nn/demo_trex_da_07_mc_sim_nn"},
+            {"label": "demo_trex_da_08_mc_sim_equi_and_bt", "value": "trex_selector_methods/ad/trex_da/demo_trex_da_08_mc_sim_equi_and_bt/demo_trex_da_08_mc_sim_equi_and_bt"},
+            // trex_selector_methods - group variable selection
+            {"label": "demo_trex_gvs_01_mc_sim_hastie_en_blocks", "value": "trex_selector_methods/ad/trex_gvs/demo_trex_gvs_01_mc_sim_hastie_en_blocks/demo_trex_gvs_01_mc_sim_hastie_en_blocks"},
+            {"label": "demo_trex_gvs_02_mc_sim_scattered_blocks", "value": "trex_selector_methods/ad/trex_gvs/demo_trex_gvs_02_mc_sim_scattered_blocks/demo_trex_gvs_02_mc_sim_scattered_blocks"},
+            {"label": "demo_trex_gvs_03_mc_sim_mixed_blocks", "value": "trex_selector_methods/ad/trex_gvs/demo_trex_gvs_03_mc_sim_mixed_blocks/demo_trex_gvs_03_mc_sim_mixed_blocks"},
+            {"label": "demo_trex_gvs_04_mc_sim_neg_traps", "value": "trex_selector_methods/ad/trex_gvs/demo_trex_gvs_04_mc_sim_neg_traps/demo_trex_gvs_04_mc_sim_neg_traps"},
+            {"label": "demo_trex_gvs_05_mc_sim_t3_blocks", "value": "trex_selector_methods/ad/trex_gvs/demo_trex_gvs_05_mc_sim_t3_blocks/demo_trex_gvs_05_mc_sim_t3_blocks"},
+            {"label": "demo_trex_gvs_06_mc_sim_ar1_blocks", "value": "trex_selector_methods/ad/trex_gvs/demo_trex_gvs_06_mc_sim_ar1_blocks/demo_trex_gvs_06_mc_sim_ar1_blocks"},
+            {"label": "demo_trex_gvs_07_mc_sim_arma_blocks", "value": "trex_selector_methods/ad/trex_gvs/demo_trex_gvs_07_mc_sim_arma_blocks/demo_trex_gvs_07_mc_sim_arma_blocks"},
+            {"label": "demo_trex_gvs_08_mc_sim_block_bench", "value": "trex_selector_methods/ad/trex_gvs/demo_trex_gvs_08_mc_sim_block_bench/demo_trex_gvs_08_mc_sim_block_bench"},
+            // trex_selector_methods - screening
+            {"label": "demo_trex_scr_01_mc_sim_screen_trex", "value": "trex_selector_methods/ad/trex_screening/demo_trex_scr_01_mc_sim_screen_trex/demo_trex_scr_01_mc_sim_screen_trex"},
+            {"label": "demo_trex_scr_02_mc_sim_screen_trex_mmap", "value": "trex_selector_methods/ad/trex_screening/demo_trex_scr_02_mc_sim_screen_trex_mmap/demo_trex_scr_02_mc_sim_screen_trex_mmap"},
+            {"label": "demo_trex_scr_03_mc_sim_correlated", "value": "trex_selector_methods/ad/trex_screening/demo_trex_scr_03_mc_sim_correlated/demo_trex_scr_03_mc_sim_correlated"},
+            {"label": "demo_trex_scr_04_mc_sim_biobank", "value": "trex_selector_methods/ad/trex_screening/demo_trex_scr_04_mc_sim_biobank/demo_trex_scr_04_mc_sim_biobank"},
+            {"label": "demo_trex_scr_05_mc_sim_biobank_mmap", "value": "trex_selector_methods/ad/trex_screening/demo_trex_scr_05_mc_sim_biobank_mmap/demo_trex_scr_05_mc_sim_biobank_mmap"},
+            {"label": "demo_trex_scr_06_mc_sim_solvers", "value": "trex_selector_methods/ad/trex_screening/demo_trex_scr_06_mc_sim_solvers/demo_trex_scr_06_mc_sim_solvers"},
+            // trex_selector_methods - sparse PCA
+            {"label": "demo_trex_spca_01_mc_sim", "value": "trex_selector_methods/ad/trex_spca/demo_trex_spca_01_mc_sim/demo_trex_spca_01_mc_sim"},
+            {"label": "demo_trex_spca_02_mc_sim_pev", "value": "trex_selector_methods/ad/trex_spca/demo_trex_spca_02_mc_sim_pev/demo_trex_spca_02_mc_sim_pev"},
+        ]
+    }
+  ]
+}

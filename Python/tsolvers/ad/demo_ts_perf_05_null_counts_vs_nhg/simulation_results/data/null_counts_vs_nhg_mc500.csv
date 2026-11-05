@@ -1,0 +1,1199 @@
+solver,family,p0,L,T,K,statistic,count,frequency
+T-LARS,LARS-based,295,300,20,20,included,2,1
+T-LARS,LARS-based,295,300,20,20,included,3,1
+T-LARS,LARS-based,295,300,20,20,included,4,3
+T-LARS,LARS-based,295,300,20,20,included,5,10
+T-LARS,LARS-based,295,300,20,20,included,6,27
+T-LARS,LARS-based,295,300,20,20,included,7,43
+T-LARS,LARS-based,295,300,20,20,included,8,59
+T-LARS,LARS-based,295,300,20,20,included,9,125
+T-LARS,LARS-based,295,300,20,20,included,10,182
+T-LARS,LARS-based,295,300,20,20,included,11,260
+T-LARS,LARS-based,295,300,20,20,included,12,366
+T-LARS,LARS-based,295,300,20,20,included,13,445
+T-LARS,LARS-based,295,300,20,20,included,14,486
+T-LARS,LARS-based,295,300,20,20,included,15,604
+T-LARS,LARS-based,295,300,20,20,included,16,646
+T-LARS,LARS-based,295,300,20,20,included,17,604
+T-LARS,LARS-based,295,300,20,20,included,18,648
+T-LARS,LARS-based,295,300,20,20,included,19,657
+T-LARS,LARS-based,295,300,20,20,included,20,644
+T-LARS,LARS-based,295,300,20,20,included,21,632
+T-LARS,LARS-based,295,300,20,20,included,22,600
+T-LARS,LARS-based,295,300,20,20,included,23,509
+T-LARS,LARS-based,295,300,20,20,included,24,463
+T-LARS,LARS-based,295,300,20,20,included,25,393
+T-LARS,LARS-based,295,300,20,20,included,26,330
+T-LARS,LARS-based,295,300,20,20,included,27,257
+T-LARS,LARS-based,295,300,20,20,included,28,233
+T-LARS,LARS-based,295,300,20,20,included,29,202
+T-LARS,LARS-based,295,300,20,20,included,30,137
+T-LARS,LARS-based,295,300,20,20,included,31,113
+T-LARS,LARS-based,295,300,20,20,included,32,87
+T-LARS,LARS-based,295,300,20,20,included,33,69
+T-LARS,LARS-based,295,300,20,20,included,34,45
+T-LARS,LARS-based,295,300,20,20,included,35,30
+T-LARS,LARS-based,295,300,20,20,included,36,24
+T-LARS,LARS-based,295,300,20,20,included,37,20
+T-LARS,LARS-based,295,300,20,20,included,38,13
+T-LARS,LARS-based,295,300,20,20,included,39,10
+T-LARS,LARS-based,295,300,20,20,included,40,9
+T-LARS,LARS-based,295,300,20,20,included,41,6
+T-LARS,LARS-based,295,300,20,20,included,42,1
+T-LARS,LARS-based,295,300,20,20,included,43,1
+T-LARS,LARS-based,295,300,20,20,included,44,2
+T-LARS,LARS-based,295,300,20,20,included,45,1
+T-LARS,LARS-based,295,300,20,20,included,46,2
+T-LARS,LARS-based,295,300,20,20,selected_v1,1,2
+T-LARS,LARS-based,295,300,20,20,selected_v1,2,18
+T-LARS,LARS-based,295,300,20,20,selected_v1,3,27
+T-LARS,LARS-based,295,300,20,20,selected_v1,4,59
+T-LARS,LARS-based,295,300,20,20,selected_v1,5,70
+T-LARS,LARS-based,295,300,20,20,selected_v1,6,77
+T-LARS,LARS-based,295,300,20,20,selected_v1,7,78
+T-LARS,LARS-based,295,300,20,20,selected_v1,8,60
+T-LARS,LARS-based,295,300,20,20,selected_v1,9,37
+T-LARS,LARS-based,295,300,20,20,selected_v1,10,26
+T-LARS,LARS-based,295,300,20,20,selected_v1,11,17
+T-LARS,LARS-based,295,300,20,20,selected_v1,12,10
+T-LARS,LARS-based,295,300,20,20,selected_v1,13,9
+T-LARS,LARS-based,295,300,20,20,selected_v1,14,5
+T-LARS,LARS-based,295,300,20,20,selected_v1,15,2
+T-LARS,LARS-based,295,300,20,20,selected_v1,16,1
+T-LARS,LARS-based,295,300,20,20,selected_v1,17,2
+T-LARS,LARS-based,295,300,20,20,selected_v0.75,4,1
+T-LARS,LARS-based,295,300,20,20,selected_v0.75,5,6
+T-LARS,LARS-based,295,300,20,20,selected_v0.75,6,7
+T-LARS,LARS-based,295,300,20,20,selected_v0.75,7,19
+T-LARS,LARS-based,295,300,20,20,selected_v0.75,8,42
+T-LARS,LARS-based,295,300,20,20,selected_v0.75,9,36
+T-LARS,LARS-based,295,300,20,20,selected_v0.75,10,63
+T-LARS,LARS-based,295,300,20,20,selected_v0.75,11,63
+T-LARS,LARS-based,295,300,20,20,selected_v0.75,12,61
+T-LARS,LARS-based,295,300,20,20,selected_v0.75,13,51
+T-LARS,LARS-based,295,300,20,20,selected_v0.75,14,42
+T-LARS,LARS-based,295,300,20,20,selected_v0.75,15,36
+T-LARS,LARS-based,295,300,20,20,selected_v0.75,16,19
+T-LARS,LARS-based,295,300,20,20,selected_v0.75,17,22
+T-LARS,LARS-based,295,300,20,20,selected_v0.75,18,7
+T-LARS,LARS-based,295,300,20,20,selected_v0.75,19,8
+T-LARS,LARS-based,295,300,20,20,selected_v0.75,20,6
+T-LARS,LARS-based,295,300,20,20,selected_v0.75,21,4
+T-LARS,LARS-based,295,300,20,20,selected_v0.75,22,4
+T-LARS,LARS-based,295,300,20,20,selected_v0.75,23,3
+T-LARS,LARS-based,295,300,20,20,selected_v0.5,5,1
+T-LARS,LARS-based,295,300,20,20,selected_v0.5,6,1
+T-LARS,LARS-based,295,300,20,20,selected_v0.5,8,2
+T-LARS,LARS-based,295,300,20,20,selected_v0.5,9,7
+T-LARS,LARS-based,295,300,20,20,selected_v0.5,10,6
+T-LARS,LARS-based,295,300,20,20,selected_v0.5,11,19
+T-LARS,LARS-based,295,300,20,20,selected_v0.5,12,22
+T-LARS,LARS-based,295,300,20,20,selected_v0.5,13,27
+T-LARS,LARS-based,295,300,20,20,selected_v0.5,14,46
+T-LARS,LARS-based,295,300,20,20,selected_v0.5,15,46
+T-LARS,LARS-based,295,300,20,20,selected_v0.5,16,51
+T-LARS,LARS-based,295,300,20,20,selected_v0.5,17,54
+T-LARS,LARS-based,295,300,20,20,selected_v0.5,18,58
+T-LARS,LARS-based,295,300,20,20,selected_v0.5,19,28
+T-LARS,LARS-based,295,300,20,20,selected_v0.5,20,32
+T-LARS,LARS-based,295,300,20,20,selected_v0.5,21,26
+T-LARS,LARS-based,295,300,20,20,selected_v0.5,22,34
+T-LARS,LARS-based,295,300,20,20,selected_v0.5,23,13
+T-LARS,LARS-based,295,300,20,20,selected_v0.5,24,8
+T-LARS,LARS-based,295,300,20,20,selected_v0.5,25,7
+T-LARS,LARS-based,295,300,20,20,selected_v0.5,26,6
+T-LARS,LARS-based,295,300,20,20,selected_v0.5,27,2
+T-LARS,LARS-based,295,300,20,20,selected_v0.5,28,1
+T-LARS,LARS-based,295,300,20,20,selected_v0.5,29,3
+T-LASSO,LARS-based,295,300,20,20,included,2,1
+T-LASSO,LARS-based,295,300,20,20,included,3,1
+T-LASSO,LARS-based,295,300,20,20,included,4,3
+T-LASSO,LARS-based,295,300,20,20,included,5,10
+T-LASSO,LARS-based,295,300,20,20,included,6,28
+T-LASSO,LARS-based,295,300,20,20,included,7,42
+T-LASSO,LARS-based,295,300,20,20,included,8,61
+T-LASSO,LARS-based,295,300,20,20,included,9,123
+T-LASSO,LARS-based,295,300,20,20,included,10,180
+T-LASSO,LARS-based,295,300,20,20,included,11,260
+T-LASSO,LARS-based,295,300,20,20,included,12,365
+T-LASSO,LARS-based,295,300,20,20,included,13,451
+T-LASSO,LARS-based,295,300,20,20,included,14,486
+T-LASSO,LARS-based,295,300,20,20,included,15,607
+T-LASSO,LARS-based,295,300,20,20,included,16,644
+T-LASSO,LARS-based,295,300,20,20,included,17,619
+T-LASSO,LARS-based,295,300,20,20,included,18,646
+T-LASSO,LARS-based,295,300,20,20,included,19,640
+T-LASSO,LARS-based,295,300,20,20,included,20,646
+T-LASSO,LARS-based,295,300,20,20,included,21,628
+T-LASSO,LARS-based,295,300,20,20,included,22,622
+T-LASSO,LARS-based,295,300,20,20,included,23,507
+T-LASSO,LARS-based,295,300,20,20,included,24,453
+T-LASSO,LARS-based,295,300,20,20,included,25,394
+T-LASSO,LARS-based,295,300,20,20,included,26,334
+T-LASSO,LARS-based,295,300,20,20,included,27,260
+T-LASSO,LARS-based,295,300,20,20,included,28,235
+T-LASSO,LARS-based,295,300,20,20,included,29,185
+T-LASSO,LARS-based,295,300,20,20,included,30,142
+T-LASSO,LARS-based,295,300,20,20,included,31,106
+T-LASSO,LARS-based,295,300,20,20,included,32,89
+T-LASSO,LARS-based,295,300,20,20,included,33,68
+T-LASSO,LARS-based,295,300,20,20,included,34,45
+T-LASSO,LARS-based,295,300,20,20,included,35,31
+T-LASSO,LARS-based,295,300,20,20,included,36,26
+T-LASSO,LARS-based,295,300,20,20,included,37,18
+T-LASSO,LARS-based,295,300,20,20,included,38,10
+T-LASSO,LARS-based,295,300,20,20,included,39,13
+T-LASSO,LARS-based,295,300,20,20,included,40,8
+T-LASSO,LARS-based,295,300,20,20,included,41,8
+T-LASSO,LARS-based,295,300,20,20,included,42,1
+T-LASSO,LARS-based,295,300,20,20,included,44,1
+T-LASSO,LARS-based,295,300,20,20,included,45,2
+T-LASSO,LARS-based,295,300,20,20,included,46,1
+T-LASSO,LARS-based,295,300,20,20,selected_v1,1,3
+T-LASSO,LARS-based,295,300,20,20,selected_v1,2,18
+T-LASSO,LARS-based,295,300,20,20,selected_v1,3,36
+T-LASSO,LARS-based,295,300,20,20,selected_v1,4,59
+T-LASSO,LARS-based,295,300,20,20,selected_v1,5,68
+T-LASSO,LARS-based,295,300,20,20,selected_v1,6,91
+T-LASSO,LARS-based,295,300,20,20,selected_v1,7,81
+T-LASSO,LARS-based,295,300,20,20,selected_v1,8,49
+T-LASSO,LARS-based,295,300,20,20,selected_v1,9,34
+T-LASSO,LARS-based,295,300,20,20,selected_v1,10,23
+T-LASSO,LARS-based,295,300,20,20,selected_v1,11,14
+T-LASSO,LARS-based,295,300,20,20,selected_v1,12,11
+T-LASSO,LARS-based,295,300,20,20,selected_v1,13,4
+T-LASSO,LARS-based,295,300,20,20,selected_v1,14,6
+T-LASSO,LARS-based,295,300,20,20,selected_v1,15,2
+T-LASSO,LARS-based,295,300,20,20,selected_v1,16,1
+T-LASSO,LARS-based,295,300,20,20,selected_v0.75,4,1
+T-LASSO,LARS-based,295,300,20,20,selected_v0.75,5,6
+T-LASSO,LARS-based,295,300,20,20,selected_v0.75,6,7
+T-LASSO,LARS-based,295,300,20,20,selected_v0.75,7,23
+T-LASSO,LARS-based,295,300,20,20,selected_v0.75,8,40
+T-LASSO,LARS-based,295,300,20,20,selected_v0.75,9,37
+T-LASSO,LARS-based,295,300,20,20,selected_v0.75,10,66
+T-LASSO,LARS-based,295,300,20,20,selected_v0.75,11,64
+T-LASSO,LARS-based,295,300,20,20,selected_v0.75,12,63
+T-LASSO,LARS-based,295,300,20,20,selected_v0.75,13,44
+T-LASSO,LARS-based,295,300,20,20,selected_v0.75,14,44
+T-LASSO,LARS-based,295,300,20,20,selected_v0.75,15,36
+T-LASSO,LARS-based,295,300,20,20,selected_v0.75,16,22
+T-LASSO,LARS-based,295,300,20,20,selected_v0.75,17,16
+T-LASSO,LARS-based,295,300,20,20,selected_v0.75,18,9
+T-LASSO,LARS-based,295,300,20,20,selected_v0.75,19,6
+T-LASSO,LARS-based,295,300,20,20,selected_v0.75,20,5
+T-LASSO,LARS-based,295,300,20,20,selected_v0.75,21,4
+T-LASSO,LARS-based,295,300,20,20,selected_v0.75,22,4
+T-LASSO,LARS-based,295,300,20,20,selected_v0.75,23,3
+T-LASSO,LARS-based,295,300,20,20,selected_v0.5,5,1
+T-LASSO,LARS-based,295,300,20,20,selected_v0.5,6,1
+T-LASSO,LARS-based,295,300,20,20,selected_v0.5,8,2
+T-LASSO,LARS-based,295,300,20,20,selected_v0.5,9,7
+T-LASSO,LARS-based,295,300,20,20,selected_v0.5,10,7
+T-LASSO,LARS-based,295,300,20,20,selected_v0.5,11,19
+T-LASSO,LARS-based,295,300,20,20,selected_v0.5,12,22
+T-LASSO,LARS-based,295,300,20,20,selected_v0.5,13,26
+T-LASSO,LARS-based,295,300,20,20,selected_v0.5,14,46
+T-LASSO,LARS-based,295,300,20,20,selected_v0.5,15,44
+T-LASSO,LARS-based,295,300,20,20,selected_v0.5,16,56
+T-LASSO,LARS-based,295,300,20,20,selected_v0.5,17,54
+T-LASSO,LARS-based,295,300,20,20,selected_v0.5,18,53
+T-LASSO,LARS-based,295,300,20,20,selected_v0.5,19,31
+T-LASSO,LARS-based,295,300,20,20,selected_v0.5,20,29
+T-LASSO,LARS-based,295,300,20,20,selected_v0.5,21,29
+T-LASSO,LARS-based,295,300,20,20,selected_v0.5,22,34
+T-LASSO,LARS-based,295,300,20,20,selected_v0.5,23,13
+T-LASSO,LARS-based,295,300,20,20,selected_v0.5,24,7
+T-LASSO,LARS-based,295,300,20,20,selected_v0.5,25,6
+T-LASSO,LARS-based,295,300,20,20,selected_v0.5,26,6
+T-LASSO,LARS-based,295,300,20,20,selected_v0.5,27,3
+T-LASSO,LARS-based,295,300,20,20,selected_v0.5,28,2
+T-LASSO,LARS-based,295,300,20,20,selected_v0.5,29,2
+T-Stepwise,LARS-based,295,300,20,20,included,2,1
+T-Stepwise,LARS-based,295,300,20,20,included,3,4
+T-Stepwise,LARS-based,295,300,20,20,included,4,5
+T-Stepwise,LARS-based,295,300,20,20,included,5,13
+T-Stepwise,LARS-based,295,300,20,20,included,6,25
+T-Stepwise,LARS-based,295,300,20,20,included,7,58
+T-Stepwise,LARS-based,295,300,20,20,included,8,73
+T-Stepwise,LARS-based,295,300,20,20,included,9,124
+T-Stepwise,LARS-based,295,300,20,20,included,10,179
+T-Stepwise,LARS-based,295,300,20,20,included,11,249
+T-Stepwise,LARS-based,295,300,20,20,included,12,315
+T-Stepwise,LARS-based,295,300,20,20,included,13,428
+T-Stepwise,LARS-based,295,300,20,20,included,14,545
+T-Stepwise,LARS-based,295,300,20,20,included,15,543
+T-Stepwise,LARS-based,295,300,20,20,included,16,604
+T-Stepwise,LARS-based,295,300,20,20,included,17,647
+T-Stepwise,LARS-based,295,300,20,20,included,18,662
+T-Stepwise,LARS-based,295,300,20,20,included,19,691
+T-Stepwise,LARS-based,295,300,20,20,included,20,631
+T-Stepwise,LARS-based,295,300,20,20,included,21,619
+T-Stepwise,LARS-based,295,300,20,20,included,22,545
+T-Stepwise,LARS-based,295,300,20,20,included,23,512
+T-Stepwise,LARS-based,295,300,20,20,included,24,440
+T-Stepwise,LARS-based,295,300,20,20,included,25,385
+T-Stepwise,LARS-based,295,300,20,20,included,26,365
+T-Stepwise,LARS-based,295,300,20,20,included,27,267
+T-Stepwise,LARS-based,295,300,20,20,included,28,234
+T-Stepwise,LARS-based,295,300,20,20,included,29,181
+T-Stepwise,LARS-based,295,300,20,20,included,30,154
+T-Stepwise,LARS-based,295,300,20,20,included,31,123
+T-Stepwise,LARS-based,295,300,20,20,included,32,101
+T-Stepwise,LARS-based,295,300,20,20,included,33,73
+T-Stepwise,LARS-based,295,300,20,20,included,34,45
+T-Stepwise,LARS-based,295,300,20,20,included,35,33
+T-Stepwise,LARS-based,295,300,20,20,included,36,31
+T-Stepwise,LARS-based,295,300,20,20,included,37,24
+T-Stepwise,LARS-based,295,300,20,20,included,38,14
+T-Stepwise,LARS-based,295,300,20,20,included,39,17
+T-Stepwise,LARS-based,295,300,20,20,included,40,9
+T-Stepwise,LARS-based,295,300,20,20,included,41,9
+T-Stepwise,LARS-based,295,300,20,20,included,42,9
+T-Stepwise,LARS-based,295,300,20,20,included,43,7
+T-Stepwise,LARS-based,295,300,20,20,included,44,3
+T-Stepwise,LARS-based,295,300,20,20,included,45,1
+T-Stepwise,LARS-based,295,300,20,20,included,46,1
+T-Stepwise,LARS-based,295,300,20,20,included,48,1
+T-Stepwise,LARS-based,295,300,20,20,selected_v1,0,353
+T-Stepwise,LARS-based,295,300,20,20,selected_v1,1,115
+T-Stepwise,LARS-based,295,300,20,20,selected_v1,2,29
+T-Stepwise,LARS-based,295,300,20,20,selected_v1,3,3
+T-Stepwise,LARS-based,295,300,20,20,selected_v0.75,0,132
+T-Stepwise,LARS-based,295,300,20,20,selected_v0.75,1,161
+T-Stepwise,LARS-based,295,300,20,20,selected_v0.75,2,115
+T-Stepwise,LARS-based,295,300,20,20,selected_v0.75,3,57
+T-Stepwise,LARS-based,295,300,20,20,selected_v0.75,4,28
+T-Stepwise,LARS-based,295,300,20,20,selected_v0.75,5,6
+T-Stepwise,LARS-based,295,300,20,20,selected_v0.75,6,1
+T-Stepwise,LARS-based,295,300,20,20,selected_v0.5,0,10
+T-Stepwise,LARS-based,295,300,20,20,selected_v0.5,1,54
+T-Stepwise,LARS-based,295,300,20,20,selected_v0.5,2,64
+T-Stepwise,LARS-based,295,300,20,20,selected_v0.5,3,96
+T-Stepwise,LARS-based,295,300,20,20,selected_v0.5,4,101
+T-Stepwise,LARS-based,295,300,20,20,selected_v0.5,5,88
+T-Stepwise,LARS-based,295,300,20,20,selected_v0.5,6,42
+T-Stepwise,LARS-based,295,300,20,20,selected_v0.5,7,25
+T-Stepwise,LARS-based,295,300,20,20,selected_v0.5,8,13
+T-Stepwise,LARS-based,295,300,20,20,selected_v0.5,9,5
+T-Stepwise,LARS-based,295,300,20,20,selected_v0.5,10,2
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,included,3,2
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,included,4,2
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,included,5,12
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,included,6,15
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,included,7,35
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,included,8,79
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,included,9,119
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,included,10,193
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,included,11,244
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,included,12,371
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,included,13,454
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,included,14,494
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,included,15,560
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,included,16,602
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,included,17,682
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,included,18,726
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,included,19,655
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,included,20,621
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,included,21,616
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,included,22,552
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,included,23,519
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,included,24,463
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,included,25,382
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,included,26,345
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,included,27,264
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,included,28,237
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,included,29,194
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,included,30,139
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,included,31,118
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,included,32,81
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,included,33,65
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,included,34,44
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,included,35,31
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,included,36,30
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,included,37,15
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,included,38,15
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,included,39,7
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,included,40,3
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,included,41,3
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,included,42,2
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,included,43,4
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,included,44,1
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,included,45,1
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,included,46,2
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,included,48,1
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,selected_v1,2,2
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,selected_v1,3,7
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,selected_v1,4,6
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,selected_v1,5,37
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,selected_v1,6,29
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,selected_v1,7,53
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,selected_v1,8,66
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,selected_v1,9,69
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,selected_v1,10,60
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,selected_v1,11,53
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,selected_v1,12,35
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,selected_v1,13,31
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,selected_v1,14,16
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,selected_v1,15,14
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,selected_v1,16,8
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,selected_v1,17,6
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,selected_v1,18,3
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,selected_v1,19,4
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,selected_v1,21,1
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,selected_v0.75,6,2
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,selected_v0.75,7,12
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,selected_v0.75,8,4
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,selected_v0.75,9,24
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,selected_v0.75,10,25
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,selected_v0.75,11,49
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,selected_v0.75,12,38
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,selected_v0.75,13,49
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,selected_v0.75,14,65
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,selected_v0.75,15,48
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,selected_v0.75,16,55
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,selected_v0.75,17,33
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,selected_v0.75,18,28
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,selected_v0.75,19,17
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,selected_v0.75,20,18
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,selected_v0.75,21,18
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,selected_v0.75,22,5
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,selected_v0.75,24,3
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,selected_v0.75,25,3
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,selected_v0.75,26,2
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,selected_v0.75,27,2
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,selected_v0.5,8,2
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,selected_v0.5,9,2
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,selected_v0.5,10,3
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,selected_v0.5,11,11
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,selected_v0.5,12,13
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,selected_v0.5,13,26
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,selected_v0.5,14,36
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,selected_v0.5,15,34
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,selected_v0.5,16,35
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,selected_v0.5,17,55
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,selected_v0.5,18,57
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,selected_v0.5,19,45
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,selected_v0.5,20,31
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,selected_v0.5,21,38
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,selected_v0.5,22,19
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,selected_v0.5,23,26
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,selected_v0.5,24,25
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,selected_v0.5,25,19
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,selected_v0.5,26,10
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,selected_v0.5,27,4
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,selected_v0.5,28,3
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,selected_v0.5,29,3
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,selected_v0.5,31,1
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,selected_v0.5,32,1
+T-ENET (lambda2 0.5),LARS-based,295,300,20,20,selected_v0.5,34,1
+T-Stagewise,LARS-based,295,300,20,20,included,2,1
+T-Stagewise,LARS-based,295,300,20,20,included,3,1
+T-Stagewise,LARS-based,295,300,20,20,included,4,3
+T-Stagewise,LARS-based,295,300,20,20,included,5,10
+T-Stagewise,LARS-based,295,300,20,20,included,6,28
+T-Stagewise,LARS-based,295,300,20,20,included,7,43
+T-Stagewise,LARS-based,295,300,20,20,included,8,55
+T-Stagewise,LARS-based,295,300,20,20,included,9,123
+T-Stagewise,LARS-based,295,300,20,20,included,10,190
+T-Stagewise,LARS-based,295,300,20,20,included,11,253
+T-Stagewise,LARS-based,295,300,20,20,included,12,375
+T-Stagewise,LARS-based,295,300,20,20,included,13,443
+T-Stagewise,LARS-based,295,300,20,20,included,14,485
+T-Stagewise,LARS-based,295,300,20,20,included,15,592
+T-Stagewise,LARS-based,295,300,20,20,included,16,664
+T-Stagewise,LARS-based,295,300,20,20,included,17,601
+T-Stagewise,LARS-based,295,300,20,20,included,18,645
+T-Stagewise,LARS-based,295,300,20,20,included,19,666
+T-Stagewise,LARS-based,295,300,20,20,included,20,633
+T-Stagewise,LARS-based,295,300,20,20,included,21,632
+T-Stagewise,LARS-based,295,300,20,20,included,22,587
+T-Stagewise,LARS-based,295,300,20,20,included,23,488
+T-Stagewise,LARS-based,295,300,20,20,included,24,481
+T-Stagewise,LARS-based,295,300,20,20,included,25,411
+T-Stagewise,LARS-based,295,300,20,20,included,26,323
+T-Stagewise,LARS-based,295,300,20,20,included,27,280
+T-Stagewise,LARS-based,295,300,20,20,included,28,218
+T-Stagewise,LARS-based,295,300,20,20,included,29,196
+T-Stagewise,LARS-based,295,300,20,20,included,30,131
+T-Stagewise,LARS-based,295,300,20,20,included,31,115
+T-Stagewise,LARS-based,295,300,20,20,included,32,93
+T-Stagewise,LARS-based,295,300,20,20,included,33,69
+T-Stagewise,LARS-based,295,300,20,20,included,34,40
+T-Stagewise,LARS-based,295,300,20,20,included,35,37
+T-Stagewise,LARS-based,295,300,20,20,included,36,26
+T-Stagewise,LARS-based,295,300,20,20,included,37,15
+T-Stagewise,LARS-based,295,300,20,20,included,38,16
+T-Stagewise,LARS-based,295,300,20,20,included,39,11
+T-Stagewise,LARS-based,295,300,20,20,included,40,8
+T-Stagewise,LARS-based,295,300,20,20,included,41,6
+T-Stagewise,LARS-based,295,300,20,20,included,43,1
+T-Stagewise,LARS-based,295,300,20,20,included,44,3
+T-Stagewise,LARS-based,295,300,20,20,included,45,1
+T-Stagewise,LARS-based,295,300,20,20,included,46,1
+T-Stagewise,LARS-based,295,300,20,20,selected_v1,1,2
+T-Stagewise,LARS-based,295,300,20,20,selected_v1,2,18
+T-Stagewise,LARS-based,295,300,20,20,selected_v1,3,27
+T-Stagewise,LARS-based,295,300,20,20,selected_v1,4,58
+T-Stagewise,LARS-based,295,300,20,20,selected_v1,5,71
+T-Stagewise,LARS-based,295,300,20,20,selected_v1,6,79
+T-Stagewise,LARS-based,295,300,20,20,selected_v1,7,77
+T-Stagewise,LARS-based,295,300,20,20,selected_v1,8,55
+T-Stagewise,LARS-based,295,300,20,20,selected_v1,9,44
+T-Stagewise,LARS-based,295,300,20,20,selected_v1,10,23
+T-Stagewise,LARS-based,295,300,20,20,selected_v1,11,18
+T-Stagewise,LARS-based,295,300,20,20,selected_v1,12,9
+T-Stagewise,LARS-based,295,300,20,20,selected_v1,13,9
+T-Stagewise,LARS-based,295,300,20,20,selected_v1,14,5
+T-Stagewise,LARS-based,295,300,20,20,selected_v1,15,2
+T-Stagewise,LARS-based,295,300,20,20,selected_v1,16,1
+T-Stagewise,LARS-based,295,300,20,20,selected_v1,17,2
+T-Stagewise,LARS-based,295,300,20,20,selected_v0.75,4,1
+T-Stagewise,LARS-based,295,300,20,20,selected_v0.75,5,5
+T-Stagewise,LARS-based,295,300,20,20,selected_v0.75,6,8
+T-Stagewise,LARS-based,295,300,20,20,selected_v0.75,7,19
+T-Stagewise,LARS-based,295,300,20,20,selected_v0.75,8,41
+T-Stagewise,LARS-based,295,300,20,20,selected_v0.75,9,38
+T-Stagewise,LARS-based,295,300,20,20,selected_v0.75,10,61
+T-Stagewise,LARS-based,295,300,20,20,selected_v0.75,11,65
+T-Stagewise,LARS-based,295,300,20,20,selected_v0.75,12,58
+T-Stagewise,LARS-based,295,300,20,20,selected_v0.75,13,52
+T-Stagewise,LARS-based,295,300,20,20,selected_v0.75,14,42
+T-Stagewise,LARS-based,295,300,20,20,selected_v0.75,15,34
+T-Stagewise,LARS-based,295,300,20,20,selected_v0.75,16,23
+T-Stagewise,LARS-based,295,300,20,20,selected_v0.75,17,20
+T-Stagewise,LARS-based,295,300,20,20,selected_v0.75,18,10
+T-Stagewise,LARS-based,295,300,20,20,selected_v0.75,19,6
+T-Stagewise,LARS-based,295,300,20,20,selected_v0.75,20,6
+T-Stagewise,LARS-based,295,300,20,20,selected_v0.75,21,4
+T-Stagewise,LARS-based,295,300,20,20,selected_v0.75,22,3
+T-Stagewise,LARS-based,295,300,20,20,selected_v0.75,23,4
+T-Stagewise,LARS-based,295,300,20,20,selected_v0.5,5,1
+T-Stagewise,LARS-based,295,300,20,20,selected_v0.5,6,1
+T-Stagewise,LARS-based,295,300,20,20,selected_v0.5,8,2
+T-Stagewise,LARS-based,295,300,20,20,selected_v0.5,9,7
+T-Stagewise,LARS-based,295,300,20,20,selected_v0.5,10,8
+T-Stagewise,LARS-based,295,300,20,20,selected_v0.5,11,19
+T-Stagewise,LARS-based,295,300,20,20,selected_v0.5,12,21
+T-Stagewise,LARS-based,295,300,20,20,selected_v0.5,13,24
+T-Stagewise,LARS-based,295,300,20,20,selected_v0.5,14,47
+T-Stagewise,LARS-based,295,300,20,20,selected_v0.5,15,50
+T-Stagewise,LARS-based,295,300,20,20,selected_v0.5,16,51
+T-Stagewise,LARS-based,295,300,20,20,selected_v0.5,17,49
+T-Stagewise,LARS-based,295,300,20,20,selected_v0.5,18,56
+T-Stagewise,LARS-based,295,300,20,20,selected_v0.5,19,32
+T-Stagewise,LARS-based,295,300,20,20,selected_v0.5,20,31
+T-Stagewise,LARS-based,295,300,20,20,selected_v0.5,21,30
+T-Stagewise,LARS-based,295,300,20,20,selected_v0.5,22,29
+T-Stagewise,LARS-based,295,300,20,20,selected_v0.5,23,12
+T-Stagewise,LARS-based,295,300,20,20,selected_v0.5,24,10
+T-Stagewise,LARS-based,295,300,20,20,selected_v0.5,25,8
+T-Stagewise,LARS-based,295,300,20,20,selected_v0.5,26,4
+T-Stagewise,LARS-based,295,300,20,20,selected_v0.5,27,3
+T-Stagewise,LARS-based,295,300,20,20,selected_v0.5,28,3
+T-Stagewise,LARS-based,295,300,20,20,selected_v0.5,29,2
+T-OMP,OMP-based,295,300,20,20,included,2,1
+T-OMP,OMP-based,295,300,20,20,included,3,4
+T-OMP,OMP-based,295,300,20,20,included,4,5
+T-OMP,OMP-based,295,300,20,20,included,5,13
+T-OMP,OMP-based,295,300,20,20,included,6,25
+T-OMP,OMP-based,295,300,20,20,included,7,58
+T-OMP,OMP-based,295,300,20,20,included,8,73
+T-OMP,OMP-based,295,300,20,20,included,9,124
+T-OMP,OMP-based,295,300,20,20,included,10,179
+T-OMP,OMP-based,295,300,20,20,included,11,249
+T-OMP,OMP-based,295,300,20,20,included,12,315
+T-OMP,OMP-based,295,300,20,20,included,13,428
+T-OMP,OMP-based,295,300,20,20,included,14,545
+T-OMP,OMP-based,295,300,20,20,included,15,543
+T-OMP,OMP-based,295,300,20,20,included,16,604
+T-OMP,OMP-based,295,300,20,20,included,17,647
+T-OMP,OMP-based,295,300,20,20,included,18,662
+T-OMP,OMP-based,295,300,20,20,included,19,691
+T-OMP,OMP-based,295,300,20,20,included,20,631
+T-OMP,OMP-based,295,300,20,20,included,21,619
+T-OMP,OMP-based,295,300,20,20,included,22,545
+T-OMP,OMP-based,295,300,20,20,included,23,512
+T-OMP,OMP-based,295,300,20,20,included,24,440
+T-OMP,OMP-based,295,300,20,20,included,25,385
+T-OMP,OMP-based,295,300,20,20,included,26,365
+T-OMP,OMP-based,295,300,20,20,included,27,267
+T-OMP,OMP-based,295,300,20,20,included,28,234
+T-OMP,OMP-based,295,300,20,20,included,29,181
+T-OMP,OMP-based,295,300,20,20,included,30,154
+T-OMP,OMP-based,295,300,20,20,included,31,123
+T-OMP,OMP-based,295,300,20,20,included,32,101
+T-OMP,OMP-based,295,300,20,20,included,33,73
+T-OMP,OMP-based,295,300,20,20,included,34,45
+T-OMP,OMP-based,295,300,20,20,included,35,33
+T-OMP,OMP-based,295,300,20,20,included,36,31
+T-OMP,OMP-based,295,300,20,20,included,37,24
+T-OMP,OMP-based,295,300,20,20,included,38,14
+T-OMP,OMP-based,295,300,20,20,included,39,17
+T-OMP,OMP-based,295,300,20,20,included,40,9
+T-OMP,OMP-based,295,300,20,20,included,41,9
+T-OMP,OMP-based,295,300,20,20,included,42,9
+T-OMP,OMP-based,295,300,20,20,included,43,7
+T-OMP,OMP-based,295,300,20,20,included,44,3
+T-OMP,OMP-based,295,300,20,20,included,45,1
+T-OMP,OMP-based,295,300,20,20,included,46,1
+T-OMP,OMP-based,295,300,20,20,included,48,1
+T-OMP,OMP-based,295,300,20,20,selected_v1,0,353
+T-OMP,OMP-based,295,300,20,20,selected_v1,1,115
+T-OMP,OMP-based,295,300,20,20,selected_v1,2,29
+T-OMP,OMP-based,295,300,20,20,selected_v1,3,3
+T-OMP,OMP-based,295,300,20,20,selected_v0.75,0,132
+T-OMP,OMP-based,295,300,20,20,selected_v0.75,1,161
+T-OMP,OMP-based,295,300,20,20,selected_v0.75,2,115
+T-OMP,OMP-based,295,300,20,20,selected_v0.75,3,57
+T-OMP,OMP-based,295,300,20,20,selected_v0.75,4,28
+T-OMP,OMP-based,295,300,20,20,selected_v0.75,5,6
+T-OMP,OMP-based,295,300,20,20,selected_v0.75,6,1
+T-OMP,OMP-based,295,300,20,20,selected_v0.5,0,10
+T-OMP,OMP-based,295,300,20,20,selected_v0.5,1,54
+T-OMP,OMP-based,295,300,20,20,selected_v0.5,2,64
+T-OMP,OMP-based,295,300,20,20,selected_v0.5,3,96
+T-OMP,OMP-based,295,300,20,20,selected_v0.5,4,101
+T-OMP,OMP-based,295,300,20,20,selected_v0.5,5,88
+T-OMP,OMP-based,295,300,20,20,selected_v0.5,6,42
+T-OMP,OMP-based,295,300,20,20,selected_v0.5,7,25
+T-OMP,OMP-based,295,300,20,20,selected_v0.5,8,13
+T-OMP,OMP-based,295,300,20,20,selected_v0.5,9,5
+T-OMP,OMP-based,295,300,20,20,selected_v0.5,10,2
+T-GP,OMP-based,295,300,20,20,included,1,1
+T-GP,OMP-based,295,300,20,20,included,3,2
+T-GP,OMP-based,295,300,20,20,included,4,8
+T-GP,OMP-based,295,300,20,20,included,5,10
+T-GP,OMP-based,295,300,20,20,included,6,29
+T-GP,OMP-based,295,300,20,20,included,7,42
+T-GP,OMP-based,295,300,20,20,included,8,77
+T-GP,OMP-based,295,300,20,20,included,9,120
+T-GP,OMP-based,295,300,20,20,included,10,183
+T-GP,OMP-based,295,300,20,20,included,11,248
+T-GP,OMP-based,295,300,20,20,included,12,336
+T-GP,OMP-based,295,300,20,20,included,13,398
+T-GP,OMP-based,295,300,20,20,included,14,501
+T-GP,OMP-based,295,300,20,20,included,15,552
+T-GP,OMP-based,295,300,20,20,included,16,681
+T-GP,OMP-based,295,300,20,20,included,17,616
+T-GP,OMP-based,295,300,20,20,included,18,671
+T-GP,OMP-based,295,300,20,20,included,19,661
+T-GP,OMP-based,295,300,20,20,included,20,677
+T-GP,OMP-based,295,300,20,20,included,21,624
+T-GP,OMP-based,295,300,20,20,included,22,584
+T-GP,OMP-based,295,300,20,20,included,23,515
+T-GP,OMP-based,295,300,20,20,included,24,438
+T-GP,OMP-based,295,300,20,20,included,25,400
+T-GP,OMP-based,295,300,20,20,included,26,317
+T-GP,OMP-based,295,300,20,20,included,27,287
+T-GP,OMP-based,295,300,20,20,included,28,243
+T-GP,OMP-based,295,300,20,20,included,29,187
+T-GP,OMP-based,295,300,20,20,included,30,141
+T-GP,OMP-based,295,300,20,20,included,31,108
+T-GP,OMP-based,295,300,20,20,included,32,95
+T-GP,OMP-based,295,300,20,20,included,33,59
+T-GP,OMP-based,295,300,20,20,included,34,44
+T-GP,OMP-based,295,300,20,20,included,35,40
+T-GP,OMP-based,295,300,20,20,included,36,25
+T-GP,OMP-based,295,300,20,20,included,37,28
+T-GP,OMP-based,295,300,20,20,included,38,19
+T-GP,OMP-based,295,300,20,20,included,39,10
+T-GP,OMP-based,295,300,20,20,included,40,13
+T-GP,OMP-based,295,300,20,20,included,41,1
+T-GP,OMP-based,295,300,20,20,included,42,4
+T-GP,OMP-based,295,300,20,20,included,44,3
+T-GP,OMP-based,295,300,20,20,included,45,2
+T-GP,OMP-based,295,300,20,20,selected_v1,0,347
+T-GP,OMP-based,295,300,20,20,selected_v1,1,122
+T-GP,OMP-based,295,300,20,20,selected_v1,2,30
+T-GP,OMP-based,295,300,20,20,selected_v1,3,1
+T-GP,OMP-based,295,300,20,20,selected_v0.75,0,115
+T-GP,OMP-based,295,300,20,20,selected_v0.75,1,174
+T-GP,OMP-based,295,300,20,20,selected_v0.75,2,99
+T-GP,OMP-based,295,300,20,20,selected_v0.75,3,70
+T-GP,OMP-based,295,300,20,20,selected_v0.75,4,30
+T-GP,OMP-based,295,300,20,20,selected_v0.75,5,8
+T-GP,OMP-based,295,300,20,20,selected_v0.75,6,2
+T-GP,OMP-based,295,300,20,20,selected_v0.75,7,2
+T-GP,OMP-based,295,300,20,20,selected_v0.5,0,7
+T-GP,OMP-based,295,300,20,20,selected_v0.5,1,38
+T-GP,OMP-based,295,300,20,20,selected_v0.5,2,71
+T-GP,OMP-based,295,300,20,20,selected_v0.5,3,87
+T-GP,OMP-based,295,300,20,20,selected_v0.5,4,99
+T-GP,OMP-based,295,300,20,20,selected_v0.5,5,96
+T-GP,OMP-based,295,300,20,20,selected_v0.5,6,44
+T-GP,OMP-based,295,300,20,20,selected_v0.5,7,35
+T-GP,OMP-based,295,300,20,20,selected_v0.5,8,16
+T-GP,OMP-based,295,300,20,20,selected_v0.5,9,4
+T-GP,OMP-based,295,300,20,20,selected_v0.5,10,1
+T-GP,OMP-based,295,300,20,20,selected_v0.5,11,2
+T-ACGP,OMP-based,295,300,20,20,included,2,1
+T-ACGP,OMP-based,295,300,20,20,included,3,2
+T-ACGP,OMP-based,295,300,20,20,included,4,4
+T-ACGP,OMP-based,295,300,20,20,included,5,11
+T-ACGP,OMP-based,295,300,20,20,included,6,18
+T-ACGP,OMP-based,295,300,20,20,included,7,50
+T-ACGP,OMP-based,295,300,20,20,included,8,88
+T-ACGP,OMP-based,295,300,20,20,included,9,148
+T-ACGP,OMP-based,295,300,20,20,included,10,187
+T-ACGP,OMP-based,295,300,20,20,included,11,254
+T-ACGP,OMP-based,295,300,20,20,included,12,325
+T-ACGP,OMP-based,295,300,20,20,included,13,409
+T-ACGP,OMP-based,295,300,20,20,included,14,493
+T-ACGP,OMP-based,295,300,20,20,included,15,551
+T-ACGP,OMP-based,295,300,20,20,included,16,597
+T-ACGP,OMP-based,295,300,20,20,included,17,664
+T-ACGP,OMP-based,295,300,20,20,included,18,681
+T-ACGP,OMP-based,295,300,20,20,included,19,661
+T-ACGP,OMP-based,295,300,20,20,included,20,701
+T-ACGP,OMP-based,295,300,20,20,included,21,572
+T-ACGP,OMP-based,295,300,20,20,included,22,542
+T-ACGP,OMP-based,295,300,20,20,included,23,528
+T-ACGP,OMP-based,295,300,20,20,included,24,451
+T-ACGP,OMP-based,295,300,20,20,included,25,397
+T-ACGP,OMP-based,295,300,20,20,included,26,351
+T-ACGP,OMP-based,295,300,20,20,included,27,276
+T-ACGP,OMP-based,295,300,20,20,included,28,256
+T-ACGP,OMP-based,295,300,20,20,included,29,185
+T-ACGP,OMP-based,295,300,20,20,included,30,135
+T-ACGP,OMP-based,295,300,20,20,included,31,111
+T-ACGP,OMP-based,295,300,20,20,included,32,90
+T-ACGP,OMP-based,295,300,20,20,included,33,69
+T-ACGP,OMP-based,295,300,20,20,included,34,53
+T-ACGP,OMP-based,295,300,20,20,included,35,36
+T-ACGP,OMP-based,295,300,20,20,included,36,24
+T-ACGP,OMP-based,295,300,20,20,included,37,22
+T-ACGP,OMP-based,295,300,20,20,included,38,15
+T-ACGP,OMP-based,295,300,20,20,included,39,15
+T-ACGP,OMP-based,295,300,20,20,included,40,9
+T-ACGP,OMP-based,295,300,20,20,included,41,8
+T-ACGP,OMP-based,295,300,20,20,included,42,3
+T-ACGP,OMP-based,295,300,20,20,included,43,2
+T-ACGP,OMP-based,295,300,20,20,included,44,2
+T-ACGP,OMP-based,295,300,20,20,included,45,1
+T-ACGP,OMP-based,295,300,20,20,included,46,1
+T-ACGP,OMP-based,295,300,20,20,included,48,1
+T-ACGP,OMP-based,295,300,20,20,selected_v1,0,348
+T-ACGP,OMP-based,295,300,20,20,selected_v1,1,123
+T-ACGP,OMP-based,295,300,20,20,selected_v1,2,28
+T-ACGP,OMP-based,295,300,20,20,selected_v1,3,1
+T-ACGP,OMP-based,295,300,20,20,selected_v0.75,0,123
+T-ACGP,OMP-based,295,300,20,20,selected_v0.75,1,161
+T-ACGP,OMP-based,295,300,20,20,selected_v0.75,2,113
+T-ACGP,OMP-based,295,300,20,20,selected_v0.75,3,62
+T-ACGP,OMP-based,295,300,20,20,selected_v0.75,4,33
+T-ACGP,OMP-based,295,300,20,20,selected_v0.75,5,6
+T-ACGP,OMP-based,295,300,20,20,selected_v0.75,6,2
+T-ACGP,OMP-based,295,300,20,20,selected_v0.5,0,12
+T-ACGP,OMP-based,295,300,20,20,selected_v0.5,1,36
+T-ACGP,OMP-based,295,300,20,20,selected_v0.5,2,77
+T-ACGP,OMP-based,295,300,20,20,selected_v0.5,3,103
+T-ACGP,OMP-based,295,300,20,20,selected_v0.5,4,97
+T-ACGP,OMP-based,295,300,20,20,selected_v0.5,5,80
+T-ACGP,OMP-based,295,300,20,20,selected_v0.5,6,52
+T-ACGP,OMP-based,295,300,20,20,selected_v0.5,7,25
+T-ACGP,OMP-based,295,300,20,20,selected_v0.5,8,12
+T-ACGP,OMP-based,295,300,20,20,selected_v0.5,9,4
+T-ACGP,OMP-based,295,300,20,20,selected_v0.5,10,2
+T-MP,OMP-based,295,300,20,20,included,4,11
+T-MP,OMP-based,295,300,20,20,included,5,10
+T-MP,OMP-based,295,300,20,20,included,6,32
+T-MP,OMP-based,295,300,20,20,included,7,44
+T-MP,OMP-based,295,300,20,20,included,8,84
+T-MP,OMP-based,295,300,20,20,included,9,129
+T-MP,OMP-based,295,300,20,20,included,10,177
+T-MP,OMP-based,295,300,20,20,included,11,283
+T-MP,OMP-based,295,300,20,20,included,12,324
+T-MP,OMP-based,295,300,20,20,included,13,390
+T-MP,OMP-based,295,300,20,20,included,14,482
+T-MP,OMP-based,295,300,20,20,included,15,556
+T-MP,OMP-based,295,300,20,20,included,16,638
+T-MP,OMP-based,295,300,20,20,included,17,695
+T-MP,OMP-based,295,300,20,20,included,18,632
+T-MP,OMP-based,295,300,20,20,included,19,694
+T-MP,OMP-based,295,300,20,20,included,20,650
+T-MP,OMP-based,295,300,20,20,included,21,574
+T-MP,OMP-based,295,300,20,20,included,22,566
+T-MP,OMP-based,295,300,20,20,included,23,475
+T-MP,OMP-based,295,300,20,20,included,24,473
+T-MP,OMP-based,295,300,20,20,included,25,375
+T-MP,OMP-based,295,300,20,20,included,26,316
+T-MP,OMP-based,295,300,20,20,included,27,300
+T-MP,OMP-based,295,300,20,20,included,28,241
+T-MP,OMP-based,295,300,20,20,included,29,181
+T-MP,OMP-based,295,300,20,20,included,30,147
+T-MP,OMP-based,295,300,20,20,included,31,125
+T-MP,OMP-based,295,300,20,20,included,32,101
+T-MP,OMP-based,295,300,20,20,included,33,84
+T-MP,OMP-based,295,300,20,20,included,34,59
+T-MP,OMP-based,295,300,20,20,included,35,40
+T-MP,OMP-based,295,300,20,20,included,36,26
+T-MP,OMP-based,295,300,20,20,included,37,20
+T-MP,OMP-based,295,300,20,20,included,38,14
+T-MP,OMP-based,295,300,20,20,included,39,16
+T-MP,OMP-based,295,300,20,20,included,40,12
+T-MP,OMP-based,295,300,20,20,included,41,9
+T-MP,OMP-based,295,300,20,20,included,42,5
+T-MP,OMP-based,295,300,20,20,included,43,3
+T-MP,OMP-based,295,300,20,20,included,44,2
+T-MP,OMP-based,295,300,20,20,included,45,2
+T-MP,OMP-based,295,300,20,20,included,46,1
+T-MP,OMP-based,295,300,20,20,included,48,1
+T-MP,OMP-based,295,300,20,20,included,49,1
+T-MP,OMP-based,295,300,20,20,selected_v1,0,318
+T-MP,OMP-based,295,300,20,20,selected_v1,1,141
+T-MP,OMP-based,295,300,20,20,selected_v1,2,35
+T-MP,OMP-based,295,300,20,20,selected_v1,3,6
+T-MP,OMP-based,295,300,20,20,selected_v0.75,0,69
+T-MP,OMP-based,295,300,20,20,selected_v0.75,1,139
+T-MP,OMP-based,295,300,20,20,selected_v0.75,2,134
+T-MP,OMP-based,295,300,20,20,selected_v0.75,3,78
+T-MP,OMP-based,295,300,20,20,selected_v0.75,4,50
+T-MP,OMP-based,295,300,20,20,selected_v0.75,5,20
+T-MP,OMP-based,295,300,20,20,selected_v0.75,6,7
+T-MP,OMP-based,295,300,20,20,selected_v0.75,7,3
+T-MP,OMP-based,295,300,20,20,selected_v0.5,0,3
+T-MP,OMP-based,295,300,20,20,selected_v0.5,1,8
+T-MP,OMP-based,295,300,20,20,selected_v0.5,2,23
+T-MP,OMP-based,295,300,20,20,selected_v0.5,3,60
+T-MP,OMP-based,295,300,20,20,selected_v0.5,4,76
+T-MP,OMP-based,295,300,20,20,selected_v0.5,5,82
+T-MP,OMP-based,295,300,20,20,selected_v0.5,6,85
+T-MP,OMP-based,295,300,20,20,selected_v0.5,7,66
+T-MP,OMP-based,295,300,20,20,selected_v0.5,8,44
+T-MP,OMP-based,295,300,20,20,selected_v0.5,9,27
+T-MP,OMP-based,295,300,20,20,selected_v0.5,10,15
+T-MP,OMP-based,295,300,20,20,selected_v0.5,11,5
+T-MP,OMP-based,295,300,20,20,selected_v0.5,12,5
+T-MP,OMP-based,295,300,20,20,selected_v0.5,13,1
+T-NCGMP,OMP-based,295,300,20,20,included,4,11
+T-NCGMP,OMP-based,295,300,20,20,included,5,10
+T-NCGMP,OMP-based,295,300,20,20,included,6,32
+T-NCGMP,OMP-based,295,300,20,20,included,7,44
+T-NCGMP,OMP-based,295,300,20,20,included,8,84
+T-NCGMP,OMP-based,295,300,20,20,included,9,129
+T-NCGMP,OMP-based,295,300,20,20,included,10,177
+T-NCGMP,OMP-based,295,300,20,20,included,11,283
+T-NCGMP,OMP-based,295,300,20,20,included,12,324
+T-NCGMP,OMP-based,295,300,20,20,included,13,390
+T-NCGMP,OMP-based,295,300,20,20,included,14,482
+T-NCGMP,OMP-based,295,300,20,20,included,15,556
+T-NCGMP,OMP-based,295,300,20,20,included,16,638
+T-NCGMP,OMP-based,295,300,20,20,included,17,695
+T-NCGMP,OMP-based,295,300,20,20,included,18,632
+T-NCGMP,OMP-based,295,300,20,20,included,19,694
+T-NCGMP,OMP-based,295,300,20,20,included,20,650
+T-NCGMP,OMP-based,295,300,20,20,included,21,574
+T-NCGMP,OMP-based,295,300,20,20,included,22,566
+T-NCGMP,OMP-based,295,300,20,20,included,23,475
+T-NCGMP,OMP-based,295,300,20,20,included,24,473
+T-NCGMP,OMP-based,295,300,20,20,included,25,375
+T-NCGMP,OMP-based,295,300,20,20,included,26,316
+T-NCGMP,OMP-based,295,300,20,20,included,27,300
+T-NCGMP,OMP-based,295,300,20,20,included,28,241
+T-NCGMP,OMP-based,295,300,20,20,included,29,181
+T-NCGMP,OMP-based,295,300,20,20,included,30,147
+T-NCGMP,OMP-based,295,300,20,20,included,31,125
+T-NCGMP,OMP-based,295,300,20,20,included,32,101
+T-NCGMP,OMP-based,295,300,20,20,included,33,84
+T-NCGMP,OMP-based,295,300,20,20,included,34,59
+T-NCGMP,OMP-based,295,300,20,20,included,35,40
+T-NCGMP,OMP-based,295,300,20,20,included,36,26
+T-NCGMP,OMP-based,295,300,20,20,included,37,20
+T-NCGMP,OMP-based,295,300,20,20,included,38,14
+T-NCGMP,OMP-based,295,300,20,20,included,39,16
+T-NCGMP,OMP-based,295,300,20,20,included,40,12
+T-NCGMP,OMP-based,295,300,20,20,included,41,9
+T-NCGMP,OMP-based,295,300,20,20,included,42,5
+T-NCGMP,OMP-based,295,300,20,20,included,43,3
+T-NCGMP,OMP-based,295,300,20,20,included,44,2
+T-NCGMP,OMP-based,295,300,20,20,included,45,2
+T-NCGMP,OMP-based,295,300,20,20,included,46,1
+T-NCGMP,OMP-based,295,300,20,20,included,48,1
+T-NCGMP,OMP-based,295,300,20,20,included,49,1
+T-NCGMP,OMP-based,295,300,20,20,selected_v1,0,318
+T-NCGMP,OMP-based,295,300,20,20,selected_v1,1,141
+T-NCGMP,OMP-based,295,300,20,20,selected_v1,2,35
+T-NCGMP,OMP-based,295,300,20,20,selected_v1,3,6
+T-NCGMP,OMP-based,295,300,20,20,selected_v0.75,0,69
+T-NCGMP,OMP-based,295,300,20,20,selected_v0.75,1,139
+T-NCGMP,OMP-based,295,300,20,20,selected_v0.75,2,134
+T-NCGMP,OMP-based,295,300,20,20,selected_v0.75,3,78
+T-NCGMP,OMP-based,295,300,20,20,selected_v0.75,4,50
+T-NCGMP,OMP-based,295,300,20,20,selected_v0.75,5,20
+T-NCGMP,OMP-based,295,300,20,20,selected_v0.75,6,7
+T-NCGMP,OMP-based,295,300,20,20,selected_v0.75,7,3
+T-NCGMP,OMP-based,295,300,20,20,selected_v0.5,0,3
+T-NCGMP,OMP-based,295,300,20,20,selected_v0.5,1,8
+T-NCGMP,OMP-based,295,300,20,20,selected_v0.5,2,23
+T-NCGMP,OMP-based,295,300,20,20,selected_v0.5,3,60
+T-NCGMP,OMP-based,295,300,20,20,selected_v0.5,4,76
+T-NCGMP,OMP-based,295,300,20,20,selected_v0.5,5,82
+T-NCGMP,OMP-based,295,300,20,20,selected_v0.5,6,85
+T-NCGMP,OMP-based,295,300,20,20,selected_v0.5,7,66
+T-NCGMP,OMP-based,295,300,20,20,selected_v0.5,8,44
+T-NCGMP,OMP-based,295,300,20,20,selected_v0.5,9,27
+T-NCGMP,OMP-based,295,300,20,20,selected_v0.5,10,15
+T-NCGMP,OMP-based,295,300,20,20,selected_v0.5,11,5
+T-NCGMP,OMP-based,295,300,20,20,selected_v0.5,12,5
+T-NCGMP,OMP-based,295,300,20,20,selected_v0.5,13,1
+T-OLS,OMP-based,295,300,20,20,included,3,2
+T-OLS,OMP-based,295,300,20,20,included,4,4
+T-OLS,OMP-based,295,300,20,20,included,5,13
+T-OLS,OMP-based,295,300,20,20,included,6,28
+T-OLS,OMP-based,295,300,20,20,included,7,58
+T-OLS,OMP-based,295,300,20,20,included,8,82
+T-OLS,OMP-based,295,300,20,20,included,9,133
+T-OLS,OMP-based,295,300,20,20,included,10,192
+T-OLS,OMP-based,295,300,20,20,included,11,228
+T-OLS,OMP-based,295,300,20,20,included,12,333
+T-OLS,OMP-based,295,300,20,20,included,13,400
+T-OLS,OMP-based,295,300,20,20,included,14,477
+T-OLS,OMP-based,295,300,20,20,included,15,548
+T-OLS,OMP-based,295,300,20,20,included,16,646
+T-OLS,OMP-based,295,300,20,20,included,17,693
+T-OLS,OMP-based,295,300,20,20,included,18,668
+T-OLS,OMP-based,295,300,20,20,included,19,654
+T-OLS,OMP-based,295,300,20,20,included,20,724
+T-OLS,OMP-based,295,300,20,20,included,21,547
+T-OLS,OMP-based,295,300,20,20,included,22,557
+T-OLS,OMP-based,295,300,20,20,included,23,497
+T-OLS,OMP-based,295,300,20,20,included,24,429
+T-OLS,OMP-based,295,300,20,20,included,25,411
+T-OLS,OMP-based,295,300,20,20,included,26,332
+T-OLS,OMP-based,295,300,20,20,included,27,330
+T-OLS,OMP-based,295,300,20,20,included,28,230
+T-OLS,OMP-based,295,300,20,20,included,29,178
+T-OLS,OMP-based,295,300,20,20,included,30,142
+T-OLS,OMP-based,295,300,20,20,included,31,110
+T-OLS,OMP-based,295,300,20,20,included,32,74
+T-OLS,OMP-based,295,300,20,20,included,33,63
+T-OLS,OMP-based,295,300,20,20,included,34,62
+T-OLS,OMP-based,295,300,20,20,included,35,37
+T-OLS,OMP-based,295,300,20,20,included,36,31
+T-OLS,OMP-based,295,300,20,20,included,37,30
+T-OLS,OMP-based,295,300,20,20,included,38,12
+T-OLS,OMP-based,295,300,20,20,included,39,12
+T-OLS,OMP-based,295,300,20,20,included,40,12
+T-OLS,OMP-based,295,300,20,20,included,41,10
+T-OLS,OMP-based,295,300,20,20,included,42,5
+T-OLS,OMP-based,295,300,20,20,included,43,2
+T-OLS,OMP-based,295,300,20,20,included,44,1
+T-OLS,OMP-based,295,300,20,20,included,47,1
+T-OLS,OMP-based,295,300,20,20,included,48,1
+T-OLS,OMP-based,295,300,20,20,included,50,1
+T-OLS,OMP-based,295,300,20,20,selected_v1,0,345
+T-OLS,OMP-based,295,300,20,20,selected_v1,1,122
+T-OLS,OMP-based,295,300,20,20,selected_v1,2,27
+T-OLS,OMP-based,295,300,20,20,selected_v1,3,6
+T-OLS,OMP-based,295,300,20,20,selected_v0.75,0,122
+T-OLS,OMP-based,295,300,20,20,selected_v0.75,1,163
+T-OLS,OMP-based,295,300,20,20,selected_v0.75,2,120
+T-OLS,OMP-based,295,300,20,20,selected_v0.75,3,58
+T-OLS,OMP-based,295,300,20,20,selected_v0.75,4,28
+T-OLS,OMP-based,295,300,20,20,selected_v0.75,5,8
+T-OLS,OMP-based,295,300,20,20,selected_v0.75,6,1
+T-OLS,OMP-based,295,300,20,20,selected_v0.5,0,12
+T-OLS,OMP-based,295,300,20,20,selected_v0.5,1,49
+T-OLS,OMP-based,295,300,20,20,selected_v0.5,2,83
+T-OLS,OMP-based,295,300,20,20,selected_v0.5,3,104
+T-OLS,OMP-based,295,300,20,20,selected_v0.5,4,100
+T-OLS,OMP-based,295,300,20,20,selected_v0.5,5,76
+T-OLS,OMP-based,295,300,20,20,selected_v0.5,6,42
+T-OLS,OMP-based,295,300,20,20,selected_v0.5,7,17
+T-OLS,OMP-based,295,300,20,20,selected_v0.5,8,11
+T-OLS,OMP-based,295,300,20,20,selected_v0.5,9,5
+T-OLS,OMP-based,295,300,20,20,selected_v0.5,11,1
+T-AFS (rho 0.1),AFS-based,295,300,20,20,included,3,2
+T-AFS (rho 0.1),AFS-based,295,300,20,20,included,4,1
+T-AFS (rho 0.1),AFS-based,295,300,20,20,included,5,8
+T-AFS (rho 0.1),AFS-based,295,300,20,20,included,6,24
+T-AFS (rho 0.1),AFS-based,295,300,20,20,included,7,40
+T-AFS (rho 0.1),AFS-based,295,300,20,20,included,8,81
+T-AFS (rho 0.1),AFS-based,295,300,20,20,included,9,115
+T-AFS (rho 0.1),AFS-based,295,300,20,20,included,10,174
+T-AFS (rho 0.1),AFS-based,295,300,20,20,included,11,264
+T-AFS (rho 0.1),AFS-based,295,300,20,20,included,12,313
+T-AFS (rho 0.1),AFS-based,295,300,20,20,included,13,461
+T-AFS (rho 0.1),AFS-based,295,300,20,20,included,14,487
+T-AFS (rho 0.1),AFS-based,295,300,20,20,included,15,559
+T-AFS (rho 0.1),AFS-based,295,300,20,20,included,16,625
+T-AFS (rho 0.1),AFS-based,295,300,20,20,included,17,637
+T-AFS (rho 0.1),AFS-based,295,300,20,20,included,18,663
+T-AFS (rho 0.1),AFS-based,295,300,20,20,included,19,697
+T-AFS (rho 0.1),AFS-based,295,300,20,20,included,20,637
+T-AFS (rho 0.1),AFS-based,295,300,20,20,included,21,614
+T-AFS (rho 0.1),AFS-based,295,300,20,20,included,22,547
+T-AFS (rho 0.1),AFS-based,295,300,20,20,included,23,519
+T-AFS (rho 0.1),AFS-based,295,300,20,20,included,24,484
+T-AFS (rho 0.1),AFS-based,295,300,20,20,included,25,382
+T-AFS (rho 0.1),AFS-based,295,300,20,20,included,26,315
+T-AFS (rho 0.1),AFS-based,295,300,20,20,included,27,274
+T-AFS (rho 0.1),AFS-based,295,300,20,20,included,28,280
+T-AFS (rho 0.1),AFS-based,295,300,20,20,included,29,182
+T-AFS (rho 0.1),AFS-based,295,300,20,20,included,30,137
+T-AFS (rho 0.1),AFS-based,295,300,20,20,included,31,135
+T-AFS (rho 0.1),AFS-based,295,300,20,20,included,32,88
+T-AFS (rho 0.1),AFS-based,295,300,20,20,included,33,67
+T-AFS (rho 0.1),AFS-based,295,300,20,20,included,34,50
+T-AFS (rho 0.1),AFS-based,295,300,20,20,included,35,43
+T-AFS (rho 0.1),AFS-based,295,300,20,20,included,36,26
+T-AFS (rho 0.1),AFS-based,295,300,20,20,included,37,19
+T-AFS (rho 0.1),AFS-based,295,300,20,20,included,38,10
+T-AFS (rho 0.1),AFS-based,295,300,20,20,included,39,13
+T-AFS (rho 0.1),AFS-based,295,300,20,20,included,40,7
+T-AFS (rho 0.1),AFS-based,295,300,20,20,included,41,7
+T-AFS (rho 0.1),AFS-based,295,300,20,20,included,42,4
+T-AFS (rho 0.1),AFS-based,295,300,20,20,included,43,2
+T-AFS (rho 0.1),AFS-based,295,300,20,20,included,44,3
+T-AFS (rho 0.1),AFS-based,295,300,20,20,included,46,1
+T-AFS (rho 0.1),AFS-based,295,300,20,20,included,47,1
+T-AFS (rho 0.1),AFS-based,295,300,20,20,included,51,1
+T-AFS (rho 0.1),AFS-based,295,300,20,20,included,55,1
+T-AFS (rho 0.1),AFS-based,295,300,20,20,selected_v1,0,54
+T-AFS (rho 0.1),AFS-based,295,300,20,20,selected_v1,1,137
+T-AFS (rho 0.1),AFS-based,295,300,20,20,selected_v1,2,134
+T-AFS (rho 0.1),AFS-based,295,300,20,20,selected_v1,3,103
+T-AFS (rho 0.1),AFS-based,295,300,20,20,selected_v1,4,51
+T-AFS (rho 0.1),AFS-based,295,300,20,20,selected_v1,5,16
+T-AFS (rho 0.1),AFS-based,295,300,20,20,selected_v1,6,3
+T-AFS (rho 0.1),AFS-based,295,300,20,20,selected_v1,7,2
+T-AFS (rho 0.1),AFS-based,295,300,20,20,selected_v0.75,0,1
+T-AFS (rho 0.1),AFS-based,295,300,20,20,selected_v0.75,1,13
+T-AFS (rho 0.1),AFS-based,295,300,20,20,selected_v0.75,2,42
+T-AFS (rho 0.1),AFS-based,295,300,20,20,selected_v0.75,3,72
+T-AFS (rho 0.1),AFS-based,295,300,20,20,selected_v0.75,4,91
+T-AFS (rho 0.1),AFS-based,295,300,20,20,selected_v0.75,5,104
+T-AFS (rho 0.1),AFS-based,295,300,20,20,selected_v0.75,6,66
+T-AFS (rho 0.1),AFS-based,295,300,20,20,selected_v0.75,7,51
+T-AFS (rho 0.1),AFS-based,295,300,20,20,selected_v0.75,8,34
+T-AFS (rho 0.1),AFS-based,295,300,20,20,selected_v0.75,9,14
+T-AFS (rho 0.1),AFS-based,295,300,20,20,selected_v0.75,10,8
+T-AFS (rho 0.1),AFS-based,295,300,20,20,selected_v0.75,11,3
+T-AFS (rho 0.1),AFS-based,295,300,20,20,selected_v0.75,13,1
+T-AFS (rho 0.1),AFS-based,295,300,20,20,selected_v0.5,2,2
+T-AFS (rho 0.1),AFS-based,295,300,20,20,selected_v0.5,3,5
+T-AFS (rho 0.1),AFS-based,295,300,20,20,selected_v0.5,4,9
+T-AFS (rho 0.1),AFS-based,295,300,20,20,selected_v0.5,5,32
+T-AFS (rho 0.1),AFS-based,295,300,20,20,selected_v0.5,6,45
+T-AFS (rho 0.1),AFS-based,295,300,20,20,selected_v0.5,7,68
+T-AFS (rho 0.1),AFS-based,295,300,20,20,selected_v0.5,8,71
+T-AFS (rho 0.1),AFS-based,295,300,20,20,selected_v0.5,9,62
+T-AFS (rho 0.1),AFS-based,295,300,20,20,selected_v0.5,10,76
+T-AFS (rho 0.1),AFS-based,295,300,20,20,selected_v0.5,11,39
+T-AFS (rho 0.1),AFS-based,295,300,20,20,selected_v0.5,12,29
+T-AFS (rho 0.1),AFS-based,295,300,20,20,selected_v0.5,13,25
+T-AFS (rho 0.1),AFS-based,295,300,20,20,selected_v0.5,14,15
+T-AFS (rho 0.1),AFS-based,295,300,20,20,selected_v0.5,15,14
+T-AFS (rho 0.1),AFS-based,295,300,20,20,selected_v0.5,16,3
+T-AFS (rho 0.1),AFS-based,295,300,20,20,selected_v0.5,17,3
+T-AFS (rho 0.1),AFS-based,295,300,20,20,selected_v0.5,18,2
+T-AFS (rho 0.3),AFS-based,295,300,20,20,included,3,1
+T-AFS (rho 0.3),AFS-based,295,300,20,20,included,4,4
+T-AFS (rho 0.3),AFS-based,295,300,20,20,included,5,7
+T-AFS (rho 0.3),AFS-based,295,300,20,20,included,6,32
+T-AFS (rho 0.3),AFS-based,295,300,20,20,included,7,43
+T-AFS (rho 0.3),AFS-based,295,300,20,20,included,8,66
+T-AFS (rho 0.3),AFS-based,295,300,20,20,included,9,113
+T-AFS (rho 0.3),AFS-based,295,300,20,20,included,10,196
+T-AFS (rho 0.3),AFS-based,295,300,20,20,included,11,230
+T-AFS (rho 0.3),AFS-based,295,300,20,20,included,12,357
+T-AFS (rho 0.3),AFS-based,295,300,20,20,included,13,405
+T-AFS (rho 0.3),AFS-based,295,300,20,20,included,14,497
+T-AFS (rho 0.3),AFS-based,295,300,20,20,included,15,582
+T-AFS (rho 0.3),AFS-based,295,300,20,20,included,16,638
+T-AFS (rho 0.3),AFS-based,295,300,20,20,included,17,622
+T-AFS (rho 0.3),AFS-based,295,300,20,20,included,18,707
+T-AFS (rho 0.3),AFS-based,295,300,20,20,included,19,690
+T-AFS (rho 0.3),AFS-based,295,300,20,20,included,20,626
+T-AFS (rho 0.3),AFS-based,295,300,20,20,included,21,663
+T-AFS (rho 0.3),AFS-based,295,300,20,20,included,22,542
+T-AFS (rho 0.3),AFS-based,295,300,20,20,included,23,505
+T-AFS (rho 0.3),AFS-based,295,300,20,20,included,24,454
+T-AFS (rho 0.3),AFS-based,295,300,20,20,included,25,367
+T-AFS (rho 0.3),AFS-based,295,300,20,20,included,26,355
+T-AFS (rho 0.3),AFS-based,295,300,20,20,included,27,255
+T-AFS (rho 0.3),AFS-based,295,300,20,20,included,28,234
+T-AFS (rho 0.3),AFS-based,295,300,20,20,included,29,180
+T-AFS (rho 0.3),AFS-based,295,300,20,20,included,30,132
+T-AFS (rho 0.3),AFS-based,295,300,20,20,included,31,130
+T-AFS (rho 0.3),AFS-based,295,300,20,20,included,32,97
+T-AFS (rho 0.3),AFS-based,295,300,20,20,included,33,78
+T-AFS (rho 0.3),AFS-based,295,300,20,20,included,34,57
+T-AFS (rho 0.3),AFS-based,295,300,20,20,included,35,48
+T-AFS (rho 0.3),AFS-based,295,300,20,20,included,36,31
+T-AFS (rho 0.3),AFS-based,295,300,20,20,included,37,15
+T-AFS (rho 0.3),AFS-based,295,300,20,20,included,38,7
+T-AFS (rho 0.3),AFS-based,295,300,20,20,included,39,12
+T-AFS (rho 0.3),AFS-based,295,300,20,20,included,40,8
+T-AFS (rho 0.3),AFS-based,295,300,20,20,included,41,5
+T-AFS (rho 0.3),AFS-based,295,300,20,20,included,42,2
+T-AFS (rho 0.3),AFS-based,295,300,20,20,included,43,1
+T-AFS (rho 0.3),AFS-based,295,300,20,20,included,44,2
+T-AFS (rho 0.3),AFS-based,295,300,20,20,included,45,2
+T-AFS (rho 0.3),AFS-based,295,300,20,20,included,51,1
+T-AFS (rho 0.3),AFS-based,295,300,20,20,included,53,1
+T-AFS (rho 0.3),AFS-based,295,300,20,20,selected_v1,0,235
+T-AFS (rho 0.3),AFS-based,295,300,20,20,selected_v1,1,167
+T-AFS (rho 0.3),AFS-based,295,300,20,20,selected_v1,2,78
+T-AFS (rho 0.3),AFS-based,295,300,20,20,selected_v1,3,19
+T-AFS (rho 0.3),AFS-based,295,300,20,20,selected_v1,4,1
+T-AFS (rho 0.3),AFS-based,295,300,20,20,selected_v0.75,0,54
+T-AFS (rho 0.3),AFS-based,295,300,20,20,selected_v0.75,1,110
+T-AFS (rho 0.3),AFS-based,295,300,20,20,selected_v0.75,2,122
+T-AFS (rho 0.3),AFS-based,295,300,20,20,selected_v0.75,3,106
+T-AFS (rho 0.3),AFS-based,295,300,20,20,selected_v0.75,4,69
+T-AFS (rho 0.3),AFS-based,295,300,20,20,selected_v0.75,5,23
+T-AFS (rho 0.3),AFS-based,295,300,20,20,selected_v0.75,6,10
+T-AFS (rho 0.3),AFS-based,295,300,20,20,selected_v0.75,7,6
+T-AFS (rho 0.3),AFS-based,295,300,20,20,selected_v0.5,0,2
+T-AFS (rho 0.3),AFS-based,295,300,20,20,selected_v0.5,1,17
+T-AFS (rho 0.3),AFS-based,295,300,20,20,selected_v0.5,2,33
+T-AFS (rho 0.3),AFS-based,295,300,20,20,selected_v0.5,3,60
+T-AFS (rho 0.3),AFS-based,295,300,20,20,selected_v0.5,4,98
+T-AFS (rho 0.3),AFS-based,295,300,20,20,selected_v0.5,5,86
+T-AFS (rho 0.3),AFS-based,295,300,20,20,selected_v0.5,6,80
+T-AFS (rho 0.3),AFS-based,295,300,20,20,selected_v0.5,7,46
+T-AFS (rho 0.3),AFS-based,295,300,20,20,selected_v0.5,8,51
+T-AFS (rho 0.3),AFS-based,295,300,20,20,selected_v0.5,9,11
+T-AFS (rho 0.3),AFS-based,295,300,20,20,selected_v0.5,10,12
+T-AFS (rho 0.3),AFS-based,295,300,20,20,selected_v0.5,11,2
+T-AFS (rho 0.3),AFS-based,295,300,20,20,selected_v0.5,13,2
+T-AFS (rho 0.5),AFS-based,295,300,20,20,included,1,1
+T-AFS (rho 0.5),AFS-based,295,300,20,20,included,3,4
+T-AFS (rho 0.5),AFS-based,295,300,20,20,included,4,5
+T-AFS (rho 0.5),AFS-based,295,300,20,20,included,5,13
+T-AFS (rho 0.5),AFS-based,295,300,20,20,included,6,25
+T-AFS (rho 0.5),AFS-based,295,300,20,20,included,7,49
+T-AFS (rho 0.5),AFS-based,295,300,20,20,included,8,93
+T-AFS (rho 0.5),AFS-based,295,300,20,20,included,9,129
+T-AFS (rho 0.5),AFS-based,295,300,20,20,included,10,185
+T-AFS (rho 0.5),AFS-based,295,300,20,20,included,11,214
+T-AFS (rho 0.5),AFS-based,295,300,20,20,included,12,312
+T-AFS (rho 0.5),AFS-based,295,300,20,20,included,13,412
+T-AFS (rho 0.5),AFS-based,295,300,20,20,included,14,489
+T-AFS (rho 0.5),AFS-based,295,300,20,20,included,15,573
+T-AFS (rho 0.5),AFS-based,295,300,20,20,included,16,639
+T-AFS (rho 0.5),AFS-based,295,300,20,20,included,17,647
+T-AFS (rho 0.5),AFS-based,295,300,20,20,included,18,675
+T-AFS (rho 0.5),AFS-based,295,300,20,20,included,19,692
+T-AFS (rho 0.5),AFS-based,295,300,20,20,included,20,647
+T-AFS (rho 0.5),AFS-based,295,300,20,20,included,21,602
+T-AFS (rho 0.5),AFS-based,295,300,20,20,included,22,593
+T-AFS (rho 0.5),AFS-based,295,300,20,20,included,23,484
+T-AFS (rho 0.5),AFS-based,295,300,20,20,included,24,425
+T-AFS (rho 0.5),AFS-based,295,300,20,20,included,25,390
+T-AFS (rho 0.5),AFS-based,295,300,20,20,included,26,341
+T-AFS (rho 0.5),AFS-based,295,300,20,20,included,27,271
+T-AFS (rho 0.5),AFS-based,295,300,20,20,included,28,244
+T-AFS (rho 0.5),AFS-based,295,300,20,20,included,29,206
+T-AFS (rho 0.5),AFS-based,295,300,20,20,included,30,146
+T-AFS (rho 0.5),AFS-based,295,300,20,20,included,31,124
+T-AFS (rho 0.5),AFS-based,295,300,20,20,included,32,96
+T-AFS (rho 0.5),AFS-based,295,300,20,20,included,33,61
+T-AFS (rho 0.5),AFS-based,295,300,20,20,included,34,66
+T-AFS (rho 0.5),AFS-based,295,300,20,20,included,35,43
+T-AFS (rho 0.5),AFS-based,295,300,20,20,included,36,33
+T-AFS (rho 0.5),AFS-based,295,300,20,20,included,37,24
+T-AFS (rho 0.5),AFS-based,295,300,20,20,included,38,13
+T-AFS (rho 0.5),AFS-based,295,300,20,20,included,39,8
+T-AFS (rho 0.5),AFS-based,295,300,20,20,included,40,3
+T-AFS (rho 0.5),AFS-based,295,300,20,20,included,41,10
+T-AFS (rho 0.5),AFS-based,295,300,20,20,included,42,3
+T-AFS (rho 0.5),AFS-based,295,300,20,20,included,43,3
+T-AFS (rho 0.5),AFS-based,295,300,20,20,included,44,2
+T-AFS (rho 0.5),AFS-based,295,300,20,20,included,45,2
+T-AFS (rho 0.5),AFS-based,295,300,20,20,included,47,2
+T-AFS (rho 0.5),AFS-based,295,300,20,20,included,48,1
+T-AFS (rho 0.5),AFS-based,295,300,20,20,selected_v1,0,302
+T-AFS (rho 0.5),AFS-based,295,300,20,20,selected_v1,1,137
+T-AFS (rho 0.5),AFS-based,295,300,20,20,selected_v1,2,51
+T-AFS (rho 0.5),AFS-based,295,300,20,20,selected_v1,3,10
+T-AFS (rho 0.5),AFS-based,295,300,20,20,selected_v0.75,0,95
+T-AFS (rho 0.5),AFS-based,295,300,20,20,selected_v0.75,1,145
+T-AFS (rho 0.5),AFS-based,295,300,20,20,selected_v0.75,2,118
+T-AFS (rho 0.5),AFS-based,295,300,20,20,selected_v0.75,3,80
+T-AFS (rho 0.5),AFS-based,295,300,20,20,selected_v0.75,4,39
+T-AFS (rho 0.5),AFS-based,295,300,20,20,selected_v0.75,5,17
+T-AFS (rho 0.5),AFS-based,295,300,20,20,selected_v0.75,6,4
+T-AFS (rho 0.5),AFS-based,295,300,20,20,selected_v0.75,7,2
+T-AFS (rho 0.5),AFS-based,295,300,20,20,selected_v0.5,0,9
+T-AFS (rho 0.5),AFS-based,295,300,20,20,selected_v0.5,1,26
+T-AFS (rho 0.5),AFS-based,295,300,20,20,selected_v0.5,2,61
+T-AFS (rho 0.5),AFS-based,295,300,20,20,selected_v0.5,3,89
+T-AFS (rho 0.5),AFS-based,295,300,20,20,selected_v0.5,4,95
+T-AFS (rho 0.5),AFS-based,295,300,20,20,selected_v0.5,5,91
+T-AFS (rho 0.5),AFS-based,295,300,20,20,selected_v0.5,6,63
+T-AFS (rho 0.5),AFS-based,295,300,20,20,selected_v0.5,7,39
+T-AFS (rho 0.5),AFS-based,295,300,20,20,selected_v0.5,8,16
+T-AFS (rho 0.5),AFS-based,295,300,20,20,selected_v0.5,9,6
+T-AFS (rho 0.5),AFS-based,295,300,20,20,selected_v0.5,10,3
+T-AFS (rho 0.5),AFS-based,295,300,20,20,selected_v0.5,11,2
+T-AFS (rho 1),AFS-based,295,300,20,20,included,2,1
+T-AFS (rho 1),AFS-based,295,300,20,20,included,3,4
+T-AFS (rho 1),AFS-based,295,300,20,20,included,4,5
+T-AFS (rho 1),AFS-based,295,300,20,20,included,5,13
+T-AFS (rho 1),AFS-based,295,300,20,20,included,6,25
+T-AFS (rho 1),AFS-based,295,300,20,20,included,7,58
+T-AFS (rho 1),AFS-based,295,300,20,20,included,8,73
+T-AFS (rho 1),AFS-based,295,300,20,20,included,9,124
+T-AFS (rho 1),AFS-based,295,300,20,20,included,10,179
+T-AFS (rho 1),AFS-based,295,300,20,20,included,11,249
+T-AFS (rho 1),AFS-based,295,300,20,20,included,12,315
+T-AFS (rho 1),AFS-based,295,300,20,20,included,13,428
+T-AFS (rho 1),AFS-based,295,300,20,20,included,14,545
+T-AFS (rho 1),AFS-based,295,300,20,20,included,15,543
+T-AFS (rho 1),AFS-based,295,300,20,20,included,16,604
+T-AFS (rho 1),AFS-based,295,300,20,20,included,17,647
+T-AFS (rho 1),AFS-based,295,300,20,20,included,18,662
+T-AFS (rho 1),AFS-based,295,300,20,20,included,19,691
+T-AFS (rho 1),AFS-based,295,300,20,20,included,20,631
+T-AFS (rho 1),AFS-based,295,300,20,20,included,21,619
+T-AFS (rho 1),AFS-based,295,300,20,20,included,22,545
+T-AFS (rho 1),AFS-based,295,300,20,20,included,23,512
+T-AFS (rho 1),AFS-based,295,300,20,20,included,24,440
+T-AFS (rho 1),AFS-based,295,300,20,20,included,25,385
+T-AFS (rho 1),AFS-based,295,300,20,20,included,26,365
+T-AFS (rho 1),AFS-based,295,300,20,20,included,27,267
+T-AFS (rho 1),AFS-based,295,300,20,20,included,28,234
+T-AFS (rho 1),AFS-based,295,300,20,20,included,29,181
+T-AFS (rho 1),AFS-based,295,300,20,20,included,30,154
+T-AFS (rho 1),AFS-based,295,300,20,20,included,31,123
+T-AFS (rho 1),AFS-based,295,300,20,20,included,32,101
+T-AFS (rho 1),AFS-based,295,300,20,20,included,33,73
+T-AFS (rho 1),AFS-based,295,300,20,20,included,34,45
+T-AFS (rho 1),AFS-based,295,300,20,20,included,35,33
+T-AFS (rho 1),AFS-based,295,300,20,20,included,36,31
+T-AFS (rho 1),AFS-based,295,300,20,20,included,37,24
+T-AFS (rho 1),AFS-based,295,300,20,20,included,38,14
+T-AFS (rho 1),AFS-based,295,300,20,20,included,39,17
+T-AFS (rho 1),AFS-based,295,300,20,20,included,40,9
+T-AFS (rho 1),AFS-based,295,300,20,20,included,41,9
+T-AFS (rho 1),AFS-based,295,300,20,20,included,42,9
+T-AFS (rho 1),AFS-based,295,300,20,20,included,43,7
+T-AFS (rho 1),AFS-based,295,300,20,20,included,44,3
+T-AFS (rho 1),AFS-based,295,300,20,20,included,45,1
+T-AFS (rho 1),AFS-based,295,300,20,20,included,46,1
+T-AFS (rho 1),AFS-based,295,300,20,20,included,48,1
+T-AFS (rho 1),AFS-based,295,300,20,20,selected_v1,0,353
+T-AFS (rho 1),AFS-based,295,300,20,20,selected_v1,1,115
+T-AFS (rho 1),AFS-based,295,300,20,20,selected_v1,2,29
+T-AFS (rho 1),AFS-based,295,300,20,20,selected_v1,3,3
+T-AFS (rho 1),AFS-based,295,300,20,20,selected_v0.75,0,132
+T-AFS (rho 1),AFS-based,295,300,20,20,selected_v0.75,1,161
+T-AFS (rho 1),AFS-based,295,300,20,20,selected_v0.75,2,115
+T-AFS (rho 1),AFS-based,295,300,20,20,selected_v0.75,3,57
+T-AFS (rho 1),AFS-based,295,300,20,20,selected_v0.75,4,28
+T-AFS (rho 1),AFS-based,295,300,20,20,selected_v0.75,5,6
+T-AFS (rho 1),AFS-based,295,300,20,20,selected_v0.75,6,1
+T-AFS (rho 1),AFS-based,295,300,20,20,selected_v0.5,0,10
+T-AFS (rho 1),AFS-based,295,300,20,20,selected_v0.5,1,54
+T-AFS (rho 1),AFS-based,295,300,20,20,selected_v0.5,2,64
+T-AFS (rho 1),AFS-based,295,300,20,20,selected_v0.5,3,96
+T-AFS (rho 1),AFS-based,295,300,20,20,selected_v0.5,4,101
+T-AFS (rho 1),AFS-based,295,300,20,20,selected_v0.5,5,88
+T-AFS (rho 1),AFS-based,295,300,20,20,selected_v0.5,6,42
+T-AFS (rho 1),AFS-based,295,300,20,20,selected_v0.5,7,25
+T-AFS (rho 1),AFS-based,295,300,20,20,selected_v0.5,8,13
+T-AFS (rho 1),AFS-based,295,300,20,20,selected_v0.5,9,5
+T-AFS (rho 1),AFS-based,295,300,20,20,selected_v0.5,10,2

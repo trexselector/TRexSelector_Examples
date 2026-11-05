@@ -1,0 +1,61 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        // -----------------------------------------------------------------------
+        // C++ Executables (CMake build via presets)
+        // -----------------------------------------------------------------------
+        // Debug profile: configure via preset then build
+        {
+            "type": "shell",
+            "label": "CMake Full Build (Debug)",
+            "command": "cmake",
+            "args": [
+                "--preset", "debug",
+                "&&",
+                "cmake",
+                "--build", "--preset", "debug-build"
+            ],
+            "options": {"cwd": "${workspaceFolder}/cpp"},
+            "group": {"kind": "build"},
+            "problemMatcher": ["$gcc"],
+            "detail": "CMake configure (preset: debug) and build (preset: debug-build)"
+        },
+        // Release profile: configure via preset then build
+        {
+            "type": "shell",
+            "label": "CMake Full Build (Release)",
+            "command": "cmake",
+            "args": [
+                "--preset", "release",
+                "&&",
+                "cmake",
+                "--build", "--preset", "release-build"
+            ],
+            "options": {"cwd": "${workspaceFolder}/cpp"},
+            "group": {"kind": "build"},
+            "problemMatcher": ["$gcc"],
+            "detail": "CMake configure (preset: release) and build (preset: release-build)"
+        },
+        // Build only (no re-configure) — fast incremental builds
+        {
+            "type": "shell",
+            "label": "CMake Build Only (Debug)",
+            "command": "cmake",
+            "args": ["--build", "--preset", "debug-build"],
+            "options": {"cwd": "${workspaceFolder}/cpp"},
+            "group": {"kind": "build"},
+            "problemMatcher": ["$gcc"],
+            "detail": "Incremental build only (preset: debug-build); skips CMake configure step"
+        },
+        {
+            "type": "shell",
+            "label": "CMake Build Only (Release)",
+            "command": "cmake",
+            "args": ["--build", "--preset", "release-build"],
+            "options": {"cwd": "${workspaceFolder}/cpp"},
+            "group": {"kind": "build"},
+            "problemMatcher": ["$gcc"],
+            "detail": "Incremental build only (preset: release-build); skips CMake configure step"
+        }
+    ]
+}

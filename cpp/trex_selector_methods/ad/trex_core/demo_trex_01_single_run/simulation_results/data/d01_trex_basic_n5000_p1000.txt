@@ -1,0 +1,28 @@
+Low-dimensional (n > p)
+Generating synthetic data...
+Creating maps of data...
+Creating T-Rex Selector instance...
+Executing T-Rex Selector...
+Selected indices: 4 27 42 43 128 149 
+False Discovery Proportion (FDP): 0.0000
+True Positive Proportion (TPP):   1.0000
+
+Adjusted Relative Occurrences (Phi_prime): 8 of 1000 entries nonzero
+  [4] 0.925884          [27] 0.925884         [42] 0.925884         [43] 0.925884         [128] 0.925884      
+  [149] 0.925884        [205] 0.451521        [458] 0.040583      
+
+Phi Matrix (Phi): 2 x 1000, 16 of 2000 entries nonzero
+  row 0:  [4] 1.0000  [27] 1.0000  [42] 1.0000  [43] 1.0000  [128] 1.0000  [149] 1.0000  [205] 0.7000  [458] 0.1500
+  row 1:  [4] 1.0000  [27] 1.0000  [42] 1.0000  [43] 1.0000  [128] 1.0000  [149] 1.0000  [205] 1.0000  [458] 0.3000
+
+Estimated FDP Matrix (FDP_hat):
+ 0.113796  0.113796  0.113796  0.113796 0.0741157 0.0741157 0.0741157 0.0741157 0.0741157 0.0741157 0.0741157
+ 0.141882  0.141882  0.141882  0.141882  0.141882  0.141882  0.141882  0.141882  0.141882  0.141882  0.141882
+
+R Matrix (R):
+7 7 7 7 6 6 6 6 6 6 6
+
+Voting Grid:
+ 0.5 0.55  0.6 0.65  0.7 0.75  0.8 0.85  0.9 0.95    1
+
+

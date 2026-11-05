@@ -1,0 +1,10 @@
+linters: linters_with_defaults(
+    line_length_linter(120L),
+    sprintf_linter(),
+    duplicate_argument_linter(),
+    missing_argument_linter(),
+    object_name_linter = NULL,
+    object_usage_linter = NULL,
+    commented_code_linter = NULL
+  )
+encoding: "UTF-8"

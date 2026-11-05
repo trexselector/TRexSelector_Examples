@@ -1,0 +1,39 @@
+{
+    "version": 6,
+    "configurePresets": [
+        {
+            "name": "debug",
+            "displayName": "Debug",
+            "description": "Debug build — links against installed TRexSelector in ../../TRexSelector/cpp/install",
+            "binaryDir": "${sourceDir}/build/debug",
+            "cacheVariables": {
+                "CMAKE_BUILD_TYPE": "Debug",
+                "CMAKE_EXPORT_COMPILE_COMMANDS": "ON",
+                "CMAKE_PREFIX_PATH": "${sourceDir}/../../TRexSelector-beyond/cpp/install"
+            }
+        },
+        {
+            "name": "release",
+            "displayName": "Release",
+            "description": "Release build — links against installed TRexSelector in ../../TRexSelector/cpp/install",
+            "binaryDir": "${sourceDir}/build/release",
+            "cacheVariables": {
+                "CMAKE_BUILD_TYPE": "Release",
+                "CMAKE_EXPORT_COMPILE_COMMANDS": "ON",
+                "CMAKE_PREFIX_PATH": "${sourceDir}/../../TRexSelector-beyond/cpp/install"
+            }
+        }
+    ],
+    "buildPresets": [
+        {
+            "name": "debug-build",
+            "displayName": "Debug Build",
+            "configurePreset": "debug"
+        },
+        {
+            "name": "release-build",
+            "displayName": "Release Build",
+            "configurePreset": "release"
+        }
+    ]
+}

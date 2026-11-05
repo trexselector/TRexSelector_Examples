@@ -1,0 +1,105 @@
+################################
+###########  FILES  ############
+################################
+*.pptx
+*.DS_Store
+*.tar.gz
+.!*
+
+# Interactive Plotly figures, written only on request (generate_plots.sh
+# --plotly). Each embeds a full copy of plotly.js (about 5 MB) and is fully
+# regenerable from the committed CSVs. They stay local; the PNG/PDF twins are
+# what the READMEs display.
+**/simulation_results/plots/*.html
+
+# Resume caches of the Monte Carlo demos: finished grid cells of an interrupted
+# run. A demo removes its cache once all results are written.
+**/simulation_results/cache/
+
+# Memory-mapped backing files of the ml_methods demos (up to 320 GB). The demos
+# remove them on exit; an aborted run leaves one behind in the demo folder.
+trex_mlm_demo_*_mmap.bin
+
+################################
+########### FOLDERS ############
+################################
+build/
+build-*/
+compile_commands.json
+html/
+results/
+logs/
+_overnight_logs/
+notes/
+deprecated/
+.cache/
+.github/
+.claude/
+documentation/
+# Local developer tooling (Python linter and type checker)
+/ruff.toml
+/mypy.ini
+/requirements-dev.txt
+
+################################
+############ C/C++ #############
+################################
+# Prerequisites
+*.d
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+*.ko
+*.elf
+# Precompiled Headers
+*.gch
+*.pch
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+# Fortran module files
+*.mod
+*.smod
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+# Executables
+*.i*86
+*.x86_64
+*.hex
+*.app
+*.stackdump
+*.exe
+*.out
+# Linker output
+*.ilk
+*.map
+*.exp
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+################################
+########### PYTHON #############
+################################
+__pycache__/
+*.pyc
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+################################
+########### VS CODE ############
+################################
+.vscode/settings.json
+.vscode/c_cpp_properties.json
+*.code-workspace
+.history

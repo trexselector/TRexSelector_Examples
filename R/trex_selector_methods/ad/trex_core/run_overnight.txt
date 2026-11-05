@@ -1,0 +1,20 @@
+## Runner command for Terminal
+#
+# Order matters: > /dev/null 2>&1 (stderr follows stdout).
+# Without the redirect, nohup would dump everything into a # nohup.out instead.
+#
+# The & puts it in the background and nohup shields it from HUP when the terminal is closed.
+# The lib is written for exactly this (no tty/jobs dependence, each demo in its own process group,
+# stray PSOCK workers reaped on demo exit and on runner INT/TERM).
+#
+# Watch progress with tail:
+#   -f _overnight_logs/summary_*.txt (newest stamp)
+# or per-demo via the matching: <demo>_<stamp>.# log.
+#
+# if a stop is desired:
+#   kill <runner-pid>
+#
+# -------------------------------------------
+
+cd R/trex_selector_methods/ad/trex_core
+nohup ./run_overnight.sh > /dev/null 2>&1 &

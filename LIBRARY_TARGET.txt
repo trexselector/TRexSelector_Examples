@@ -1,0 +1,13 @@
+Library:        TRexSelector, https://github.com/G4Lactus/TRexSelector (C++ 1.0.0, R package TRexSelector 2.0.0,
+                Python package trexselector 1.0.0)
+Pinned commit:  16a680f (2026-11-05), the library commit the committed results and figures come from
+Install:        cpp    -> in <library>/cpp: cmake --preset local-install && cmake --build --preset local-install-build
+                          && cmake --install build/release-portable (move an old cpp/install away first; the
+                          Examples presets expect the install at ../../TRexSelector-beyond/cpp/install)
+                R      -> R CMD INSTALL --preclean <library>/R/TRexSelector (remove src/*.o and src/TRexSelector.so
+                          of an earlier build first)
+                Python -> at the repository root: python3 -m venv .venv
+                          && .venv/bin/pip install <library>/Python/trexselector pandas matplotlib plotly
+Pending:        trex_core 08 in C++, Python and R (the committed C++ runtimes come from 61fd84c), trex_core 09 and
+                10 in R
+History:        HISTORY.md of the library lists the changes per library version

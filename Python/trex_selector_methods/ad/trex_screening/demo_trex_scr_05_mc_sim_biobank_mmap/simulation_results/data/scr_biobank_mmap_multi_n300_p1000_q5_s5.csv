@@ -1,0 +1,61 @@
+method,metric,snr,value
+Screen-TRex Ordinary: TLARS,Usage,0.1,0.0
+Screen-TRex Ordinary: TLARS,FDR,0.1,0.0
+Screen-TRex Ordinary: TLARS,TPR,0.1,0.0
+Screen-TRex Ordinary: TLARS,Est. FDR,0.1,0.4912333333333325
+Screen-TRex Ordinary: TLARS,Usage,0.5,0.029
+Screen-TRex Ordinary: TLARS,FDR,0.5,0.3417487684729064
+Screen-TRex Ordinary: TLARS,TPR,0.5,0.9586206896551724
+Screen-TRex Ordinary: TLARS,Est. FDR,0.5,0.19418928571428387
+Screen-TRex Ordinary: TLARS,Usage,1.0,0.022
+Screen-TRex Ordinary: TLARS,FDR,1.0,0.3019480519480519
+Screen-TRex Ordinary: TLARS,TPR,1.0,1.0
+Screen-TRex Ordinary: TLARS,Est. FDR,1.0,0.1802162698412683
+Screen-TRex Ordinary: TLARS,Usage,2.0,0.022
+Screen-TRex Ordinary: TLARS,FDR,2.0,0.30194805194805185
+Screen-TRex Ordinary: TLARS,TPR,2.0,1.0
+Screen-TRex Ordinary: TLARS,Est. FDR,2.0,0.17858611111110953
+Screen-TRex Ordinary: TLARS,Usage,5.0,0.032
+Screen-TRex Ordinary: TLARS,FDR,5.0,0.31845238095238104
+Screen-TRex Ordinary: TLARS,TPR,5.0,1.0
+Screen-TRex Ordinary: TLARS,Est. FDR,5.0,0.17839563492063334
+Screen-TRex Bootstrap-CI: TLARS,Usage,0.1,0.0
+Screen-TRex Bootstrap-CI: TLARS,FDR,0.1,0.0
+Screen-TRex Bootstrap-CI: TLARS,TPR,0.1,0.0
+Screen-TRex Bootstrap-CI: TLARS,Est. FDR,0.1,0.3902999999999996
+Screen-TRex Bootstrap-CI: TLARS,Usage,0.5,0.085
+Screen-TRex Bootstrap-CI: TLARS,FDR,0.5,0.31974789915966356
+Screen-TRex Bootstrap-CI: TLARS,TPR,0.5,0.9882352941176469
+Screen-TRex Bootstrap-CI: TLARS,Est. FDR,0.5,0.14889047619047618
+Screen-TRex Bootstrap-CI: TLARS,Usage,1.0,0.136
+Screen-TRex Bootstrap-CI: TLARS,FDR,1.0,0.30774393090569524
+Screen-TRex Bootstrap-CI: TLARS,TPR,1.0,1.0
+Screen-TRex Bootstrap-CI: TLARS,Est. FDR,1.0,0.1586626984126979
+Screen-TRex Bootstrap-CI: TLARS,Usage,2.0,0.139
+Screen-TRex Bootstrap-CI: TLARS,FDR,2.0,0.3131209318259674
+Screen-TRex Bootstrap-CI: TLARS,TPR,2.0,1.0
+Screen-TRex Bootstrap-CI: TLARS,Est. FDR,2.0,0.15746190476190436
+Screen-TRex Bootstrap-CI: TLARS,Usage,5.0,0.124
+Screen-TRex Bootstrap-CI: TLARS,FDR,5.0,0.3118759600614436
+Screen-TRex Bootstrap-CI: TLARS,TPR,5.0,1.0
+Screen-TRex Bootstrap-CI: TLARS,Est. FDR,5.0,0.15649880952380918
+T-Rex fallback: TLARS,Usage,0.1,1.0
+T-Rex fallback: TLARS,FDR,0.1,0.01
+T-Rex fallback: TLARS,TPR,0.1,0.018599999999999978
+T-Rex fallback: TLARS,Est. FDR,0.1,0.09999999999999859
+T-Rex fallback: TLARS,Usage,0.5,0.886
+T-Rex fallback: TLARS,FDR,0.5,0.014202407825432646
+T-Rex fallback: TLARS,TPR,0.5,0.8033860045146725
+T-Rex fallback: TLARS,Est. FDR,0.5,0.09999999999999859
+T-Rex fallback: TLARS,Usage,1.0,0.842
+T-Rex fallback: TLARS,FDR,1.0,0.011916072842438636
+T-Rex fallback: TLARS,TPR,1.0,0.9990498812351543
+T-Rex fallback: TLARS,Est. FDR,1.0,0.09999999999999859
+T-Rex fallback: TLARS,Usage,2.0,0.839
+T-Rex fallback: TLARS,FDR,2.0,0.013848686077529933
+T-Rex fallback: TLARS,TPR,2.0,1.0
+T-Rex fallback: TLARS,Est. FDR,2.0,0.09999999999999859
+T-Rex fallback: TLARS,Usage,5.0,0.844
+T-Rex fallback: TLARS,FDR,5.0,0.011002031144211239
+T-Rex fallback: TLARS,TPR,5.0,1.0
+T-Rex fallback: TLARS,Est. FDR,5.0,0.09999999999999859

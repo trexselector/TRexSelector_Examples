@@ -1,0 +1,49 @@
+method,metric,SNR,value
+Screen-TRex Ordinary: TLARS,FDR,0.010000,0.427500
+Screen-TRex Ordinary: TLARS,TPR,0.010000,0.003000
+Screen-TRex Ordinary: TLARS,Est. FDR,0.010000,0.389583
+Screen-TRex Ordinary: TLARS,FDR,0.100000,0.455750
+Screen-TRex Ordinary: TLARS,TPR,0.100000,0.039500
+Screen-TRex Ordinary: TLARS,Est. FDR,0.100000,0.523500
+Screen-TRex Ordinary: TLARS,FDR,0.200000,0.291583
+Screen-TRex Ordinary: TLARS,TPR,0.200000,0.115500
+Screen-TRex Ordinary: TLARS,Est. FDR,0.200000,0.474500
+Screen-TRex Ordinary: TLARS,FDR,0.500000,0.109619
+Screen-TRex Ordinary: TLARS,TPR,0.500000,0.451000
+Screen-TRex Ordinary: TLARS,Est. FDR,0.500000,0.226946
+Screen-TRex Ordinary: TLARS,FDR,0.600000,0.093677
+Screen-TRex Ordinary: TLARS,TPR,0.600000,0.523500
+Screen-TRex Ordinary: TLARS,Est. FDR,0.600000,0.201806
+Screen-TRex Ordinary: TLARS,FDR,1.000000,0.067889
+Screen-TRex Ordinary: TLARS,TPR,1.000000,0.810500
+Screen-TRex Ordinary: TLARS,Est. FDR,1.000000,0.118682
+Screen-TRex Ordinary: TLARS,FDR,2.000000,0.063672
+Screen-TRex Ordinary: TLARS,TPR,2.000000,0.993500
+Screen-TRex Ordinary: TLARS,Est. FDR,2.000000,0.094341
+Screen-TRex Ordinary: TLARS,FDR,5.000000,0.061016
+Screen-TRex Ordinary: TLARS,TPR,5.000000,1.000000
+Screen-TRex Ordinary: TLARS,Est. FDR,5.000000,0.093898
+Screen-TRex Bootstrap-CI: TLARS,FDR,0.010000,0.410000
+Screen-TRex Bootstrap-CI: TLARS,TPR,0.010000,0.002500
+Screen-TRex Bootstrap-CI: TLARS,Est. FDR,0.010000,0.358917
+Screen-TRex Bootstrap-CI: TLARS,FDR,0.100000,0.375857
+Screen-TRex Bootstrap-CI: TLARS,TPR,0.100000,0.031500
+Screen-TRex Bootstrap-CI: TLARS,Est. FDR,0.100000,0.433131
+Screen-TRex Bootstrap-CI: TLARS,FDR,0.200000,0.245917
+Screen-TRex Bootstrap-CI: TLARS,TPR,0.200000,0.081500
+Screen-TRex Bootstrap-CI: TLARS,Est. FDR,0.200000,0.361667
+Screen-TRex Bootstrap-CI: TLARS,FDR,0.500000,0.043284
+Screen-TRex Bootstrap-CI: TLARS,TPR,0.500000,0.214000
+Screen-TRex Bootstrap-CI: TLARS,Est. FDR,0.500000,0.114802
+Screen-TRex Bootstrap-CI: TLARS,FDR,0.600000,0.043285
+Screen-TRex Bootstrap-CI: TLARS,TPR,0.600000,0.225000
+Screen-TRex Bootstrap-CI: TLARS,Est. FDR,0.600000,0.086732
+Screen-TRex Bootstrap-CI: TLARS,FDR,1.000000,0.032563
+Screen-TRex Bootstrap-CI: TLARS,TPR,1.000000,0.400000
+Screen-TRex Bootstrap-CI: TLARS,Est. FDR,1.000000,0.055350
+Screen-TRex Bootstrap-CI: TLARS,FDR,2.000000,0.045226
+Screen-TRex Bootstrap-CI: TLARS,TPR,2.000000,0.772000
+Screen-TRex Bootstrap-CI: TLARS,Est. FDR,2.000000,0.073314
+Screen-TRex Bootstrap-CI: TLARS,FDR,5.000000,0.051364
+Screen-TRex Bootstrap-CI: TLARS,TPR,5.000000,0.880000
+Screen-TRex Bootstrap-CI: TLARS,Est. FDR,5.000000,0.082864
